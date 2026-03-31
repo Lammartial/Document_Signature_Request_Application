@@ -1,0 +1,1071 @@
+﻿"ID","RequestID","Priority","Request Title","Status","Created On","Sent by ","Sent to","Additional details","Attachments","Cancel reason","Attachment"
+"REQ-0001","1","Medium","Final Official Test","Signed","13.11.2025 10:42","Lam Vo","Lam.Vo@rrc-ps.com; Lam.Vo@rrc-ps.com","Extra details","1",,
+"REQ-0002","2","Medium","LSC_100498_VN_K_RRC2040","Canceled","13.11.2025 12:58","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update the next revision of ""LSC_100498_VN_K_RRC2040"".
+
+Please refer and give me your approval!","1","Canceled due to bug issues",
+"REQ-0003","3","High","ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_Sign","Canceled","13.11.2025 13:17","Hieu Luong","Thu.Le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_Sign","1","Canceled due to bug issues",
+"REQ-0004","4","Medium","LSC_100498_VN_K_RRC2040","Rejected","13.11.2025 13:17","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update the next revision of LSC_100498_VN_K_RRC2040.
+Please refer and give me your approval!","1",,
+"REQ-0005","5","High","FO_Q_017_VN_B_Measurement-Test-Protocol_Sign","Canceled","13.11.2025 13:20","Hieu Luong","Nhuong.Do@rrc-ps.com","FO_Q_017_VN_B_Measurement-Test-Protocol_Sign","1","Canceled due to bug issues",
+"REQ-0006","6","High","AA_P_206_VN_A_Key-Management-Instruction_Sign","Signed","13.11.2025 13:55","Hieu Luong","Nhuong.Do@rrc-ps.com","AA_P_206_VN_A_Key-Management-Instruction_Sign","1",,
+"REQ-0007","7","Medium","Request approval  for ASI_412085_VN_E_RRC2054S_Preassembly","Canceled","13.11.2025 14:03","Trung Nguyen","trong.dang@rrc-ps.com; Thu.Le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to  ASI_412085_VN_E_RRC2054S_Preassembly
+
+Please review and sign for approval. Thank you","1","Canceled due to bug issues",
+"REQ-0008","8","Medium","Request approval for ASI_110059S_VN_D_RRC2040-2-OL","Canceled","13.11.2025 14:10","Trung Nguyen","trong.dang@rrc-ps.com; Thu.Le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to  ASI_110059S_VN_D_RRC2040-2-OL Preassembly
+
+Please review and sign for approval. Thank you","1","Canceled due to bug issues",
+"REQ-0009","9","Medium","Request approval for PAI_110059S_VN_B_RRC2040-2-OL","Canceled","13.11.2025 14:13","Trung Nguyen","trong.dang@rrc-ps.com; Thu.Le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to  PAI_110059S_VN_B_RRC2040-2-OL Preassembly
+
+Please review and sign for approval. Thank you","1","Canceled due to bug issues",
+"REQ-0010","10","High","ASI_412177_VN_A_RRC3570_Assembly-Instruction","Canceled","13.11.2025 14:20","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all, 
+I'd like to update ""ASI_412177_VN_A_RRC3570_Assembly-Instruction"" as attached file.
+Please refer and give me your approval!","1","Re-update attached file
+",
+"REQ-0011","11","High","ASI_412177_VN_A_RRC3570_Assembly-Instruction","Canceled","13.11.2025 14:27","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all,
+
+I'd like to update ""ASI_412177_VN_A_RRC3570_Assembly-Instruction"" as attached.
+Please refer it and give me your approval!","1","Correct model name",
+"REQ-0012","12","High","PAI_110338_VN_A_RRC3570_Packaging-Instruction","Canceled","13.11.2025 14:32","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all,
+
+I'd like to update ""PAI_110338_VN_A_RRC3570_Packaging-Instruction"" as attached.
+Please refer to it and give me your approval!","1","Correct model name",
+"REQ-0013","13","High","LSC_110338_VN_A_RRC3570","Canceled","13.11.2025 14:45","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all,
+
+I'd like to update ""LSC_110338_VN_A_RRC3570"" as attached.
+Please refer and give me your approval!","1","Correct model name",
+"REQ-0014","14","Medium","LSC_100498_VN_K_RRC2040","Canceled","13.11.2025 15:10","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Approvel for ""LSC_100498_VN_K_RRC2040""","1","Canceled due to bug issues",
+"REQ-0015","15","Medium","Test","Canceled","13.11.2025 16:59","Lam Vo","Thu.Le@rrc-ps.com; trang.nguyen@rrc-ps.com",,"1","Canceled due to bug issues",
+"REQ-0016","16","High","ASI_412177_VN_A_RRC3570-4_Assembly-Instruction","Canceled","14.11.2025 09:36","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all,
+I'd like to update ""ASI_412177_VN_A_RRC3570-4_Assembly-Instruction"" as attached.
+Please refer and give me your comment!","1","Canceled due to bug issues",
+"REQ-0017","17","High","PAI_110338_VN_A_RRC3570-4_Packaging-Instruction","Canceled","14.11.2025 09:40","Anh Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com","Hi all,
+I'd like to update ""PAI_110338_VN_A_RRC3570-4_Packaging-Instruction"" as attached.
+Please refer and give me your approval!","1","Canceled due to bug issues",
+"REQ-0018","18","High","Update LSC RRC2020 / LSC_100496_VN_I_Approval-Page","Canceled","14.11.2025 11:57","Chien Tran","Trang.Dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update following new ASI_ preassembly version G","1","Test for IT",
+"REQ-0019","19","High","RRC2020 / LSC_100496_VN_I_Approval-Page_signed","Canceled","14.11.2025 12:59","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update ASI preassembly version G","1","Test for IT",
+"REQ-0020","20","High","Update LSC RRC2020 / LSC_100496_VN_I_Approval-Page_signed","Rejected","14.11.2025 13:14","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update due to using latest ASI preassembly version G","1",,
+"REQ-0021","21","High","RRC2020_GE / LSC_110270_VN_E_Approval-page","Rejected","14.11.2025 13:28","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update LSC follow ASI preassembly version G","1",,
+"REQ-0022","22","Medium","Request approval for PAI_110059S_VN_B_RRC2040-2-OL","Rejected","18.11.2025 08:45","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110059S_VN_B_RRC2040-2-OL Preassembly Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0023","23","Medium","Request approval for ASI_110059S_VN_D_RRC2040-2-OL","Canceled","18.11.2025 08:48","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_110059S_VN_D_RRC2040-2-OL Preassembly Please review and sign for approval. 
+
+Thank you","1","Remake ASi ",
+"REQ-0024","24","Medium","Request approval for ASI_412085_VN_E_RRC2054_Preassembly","Rejected","18.11.2025 08:52","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412085_VN_E_RRC2054_PreassemblyPlease review and sign for approval. 
+
+Thank you","1",,
+"REQ-0025","25","High","Approval for FO_P_207_VN_Overtime-Application ","Signed","18.11.2025 11:53","Hieu Luong","Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Approval for FO_P_207_VN_Overtime-Application ","1",,
+"REQ-0026","26","Medium","Approval for Document Sign Request Instruction Document","Canceled","18.11.2025 16:34","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the document signature request instruction doc.","1","Canceled due to error in document format.",
+"REQ-0027","27","High","SF-25-084_VN_100568S-15_RRCVN_RRC2054_did-not-follow-ASI","Rejected","18.11.2025 16:51","Trong Dang","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Everyone,
+
+I'd like to send you SF-25-084_VN_100568S-15_RRCVN_RRC2054_did-not-follow-ASI.
+Please review and sign.
+
+Best regard!
+Trong.!","1",,
+"REQ-0028","28","High","SF-25-089_VN_100498-19_RRCVN_RRC2040_Wrong-component","Signed","18.11.2025 17:18","Trong Dang","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Everyone,
+I'd like to share you SF-25-089_VN_100498-19_RRCVN_RRC2040_Wrong-component.
+Please review and sign on it.
+
+Best regard!
+Trong.!","1",,
+"REQ-0029","29","Medium","Approval for Document Sign Request Instruction Document ","Canceled","19.11.2025 08:30","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the Document Signature Request App usage instruction document.","1","Update Instruction Document",
+"REQ-0030","30","High","Special Release for Petalite Jig","Canceled","19.11.2025 10:17","Duc Bui","duc.bui@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Change Attachment File",
+"REQ-0031","31","Medium","Request approval for ASI_412085_VN_E_RRC2054_Preassembly","Signed","19.11.2025 10:19","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","
+Hi all,
+
+I'd like to update to ASI_412085_VN_E_RRC2054_Preassembly
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0032","32","Medium","Request approval for ASI_412084_VN_D_RRC2040-2S_Preassembly","Canceled","19.11.2025 10:22","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412084_VN_D_RRC2040-2S_Preassembly
+Please review and sign for approval. 
+
+Thank you","1","Update ASI as SF-25-057_VN",
+"REQ-0033","33","High","Special Release for Petalite Jig","Canceled","19.11.2025 10:29","Duc Bui","duc.bui@rrc-ps.com; Trang.Dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Change File",
+"REQ-0034","34","High","Special Release for Petalite Jig","Rejected","19.11.2025 10:36","Duc Bui","duc.bui@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0035","35","Medium","Request approval for PAI_110059S_VN_B_RRC2040-2-O","Signed","19.11.2025 10:38","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110059S_VN_B_RRC2040-2-OL Preassembly 
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0036","36","High","IM_Q_010_VN_D_Document-Responsibility-Matrix_sign","Canceled","19.11.2025 14:25","Hieu Luong","Hung.Dang@rrc-ps.com; huy.nguyen@rrc-ps.com; duong.nguyen@rrc-ps.com; Trang.Vu@rrc-ps.com; Ha.Le@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","IM_Q_010_VN_D_Document-Responsibility-Matrix_sign","1","wrong attached file ",
+"REQ-0037","37","High","Release Children parts of Welding Jig RR2054-2","Canceled","19.11.2025 17:14","Duc Bui","duc.bui@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","212912-01_JIG RRC2054-2_Upper Weld. Long sup. bar","1","change file",
+"REQ-0038","38","High","Release Children parts of Welding Jig RR2054-2","Canceled","19.11.2025 17:20","Duc Bui","duc.bui@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","212913-01_JIG RRC2054-2_Lower Weld. SpringD10 L15","1","change file",
+"REQ-0039","39","Medium","Request approval for ASI_412084_VN_D_RRC2040-2S_Preassembly","Rejected","20.11.2025 09:47","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412084_VN_D_RRC2040-2S_Preassembly
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0040","40","High","Request for approving ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_Sign","Canceled","20.11.2025 10:24","Hieu Luong","anh.nguyen@rrc-ps.com; Thu.Le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Request for approving ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_Sign","1","Reject",
+"REQ-0041","41","Medium","Approval for Document Sign Request Instruction Document ","Canceled","21.11.2025 11:56","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the document signature request instruction doc.","1","Requester forgot to add signature",
+"REQ-0042","42","Medium","Approval for Document Signature Request App Instruction Document","Canceled","21.11.2025 11:59","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the document signature request instruction doc.","1","Approval flow failed. Will rerun the approval process again.",
+"REQ-0043","43","High","ASI_100498-20_VN_D_RRC2040_Assembly-Instruction","Canceled","24.11.2025 11:55","Anh Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+I'd like to update the revision of ASI_100498-20_VN_D_RRC2040_Assembly-Instruction as attached.
+Pls check and give me your approval!","1","no comment",
+"REQ-0044","44","Medium","Overtime request (15/11 & 22/11)_ Quyen Dao","Signed","24.11.2025 13:24","Quyen Dao","Ingo.Bauerschmidt@rrc-ps.com","Fulfill documents to HR relate to 2 Sats working overtime:
+1. 15/11/2025 - Get training from Hue
+2. 22/11/2025 - Checkings mails and get update on upcoming shipments/ material status","1",,
+"REQ-0045","45","High","PCPA_110338_VN_A_RRC3570-4","Signed","24.11.2025 13:41","Trong Dang","anh.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Team,
+I'd like to send you PCPA_110338_VN_A_RRC3570-4. Please help to review and sign.
+Thanks!","1",,
+"REQ-0046","46","High","Request approval for ASI_412085_VN_E_RRC2054S_Preassembly","Rejected","24.11.2025 13:42","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to ASI_412085_VN_E_RRC2054S_Preassembly
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0047","47","High","Request approval for ASI_412085_VN_E_RRC2054S_Preassembly","Canceled","24.11.2025 14:11","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412085_VN_E_RRC2054S_Preassembly 
+
+Please review and sign for approval. 
+
+Thank you","1","Cancel due to expanding app features",
+"REQ-0048","48","High","Approval for Document Signature Request App Instruction Document","Canceled","24.11.2025 15:11","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the document signature request instruction doc.","1","Flow failed. Run again later",
+"REQ-0049","49","High","Approval for Document Signature Request App Instruction Document","Signed","24.11.2025 15:18","Lam Vo","Hieu.Luong@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please review and give your approval for the document signature request instruction doc.","1",,
+"REQ-0050","50","Medium","Approval for IT support and admin handbook ","Signed","24.11.2025 17:21","Lam Vo","Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Please give your approval for the release of IT support and admin handbook. ","1",,
+"REQ-0051","51","Medium","Request approval for ASI_412084_VN_D_RRC2040-2S_Preassembly","Rejected","25.11.2025 08:34","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412084_VN_D_RRC2040-2S_Preassembly
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0052","52","High","OT_25_0091_Q_VN_211125","Signed","25.11.2025 14:31","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0091_Q_VN_211125","1",,
+"REQ-0053","53","Medium","Request approval for PAI_100559S_VN_D_RRC2040-2","Canceled","26.11.2025 08:39","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_100559S_VN_D_RRC2040-2
+
+Please review and sign for approval.
+
+ Thank you","1","Cancel due to expanding app features",
+"REQ-0054","54","Medium","Request approval for ASI_100559S_VN_D_RRC2040-2","Rejected","26.11.2025 08:55","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to ASI_100559S_VN_D_RRC2040-2
+Please review and sign for approval.
+
+ Thank you","1",,
+"REQ-0055","55","High","LSC_100559S_VN_H_RRC2040-2","Signed","26.11.2025 11:17","Hoa Vu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0056","56","Medium","Request approval for PAI_100559S_VN_D_RRC2040-2","Canceled","26.11.2025 13:10","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_100559S_VN_D_RRC2040-2
+
+Please review and sign for approval.
+
+ Thank you","1","remake document",
+"REQ-0057","57","High","LSC_100498_VN_K_Approval-Page","Canceled","26.11.2025 15:51","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update follow 
+ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_released
+ASI_412083_VN_G_RRC2040_Assembly-Instruction_released
+","1","Urgent so need contact direct.",
+"REQ-0058","58","High","CL_Q_203_VN_A_Packaging-SPA-Checklist","Canceled","27.11.2025 13:45","Hieu Luong","Ha.Le@rrc-ps.com","CL_Q_203_VN_A_Packaging-SPA-Checklist","1","Flow failed. Open request again.",
+"REQ-0059","59","High","CL_Q_203_VN_A_Packaging-SPA-Checklist","Rejected","28.11.2025 13:45","Hieu Luong","Ha.Le@rrc-ps.com","CL_Q_203_VN_A_Packaging-SPA-Checklist","1",,
+"REQ-0060","60","High","LSC_110062S_VN_E_Approval-Page","Canceled","28.11.2025 14:33","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Cập nhật theo hướng dẫn lắp ráp mới
+ASI_412085_VN_E_RRC2054_Assembly-Instruction_released 
+","1","urgent so need to contact directly",
+"REQ-0061","61","Medium","LSC_110310S_VN_E_RRC2054-OL","Canceled","28.11.2025 15:16","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Cập nhật theo hướng dẫn lắp ráp mới
+ASI_412085_VN_E_RRC2054_Assembly-Instruction_released","1","urgent so need to contact directly",
+"REQ-0062","62","High","SF-25-099_VN_Using-air-blow-fan-and-vacuum-clear-at-line-3","Rejected","28.11.2025 15:26","Cuong Nguyen","anh.nguyen@rrc-ps.com; Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear All
+I would like to provide an update to the SF regarding the use of fans in Line 3
+Please review the attached file and provide your approval.
+Thank you.","1",,
+"REQ-0063","63","High","LSC_110062S_VN_E_RRC2054-SO_Sign","Canceled","28.11.2025 16:05","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_110062S_VN_E_RRC2054-SO_Sign","1","sd",
+"REQ-0064","64","High","LSC_110062S_VN_E_RRC2054-SO_Sign","Canceled","28.11.2025 16:12","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_110062S_VN_E_RRC2054-SO_Sign","1","sd",
+"REQ-0065","65","High","SF-25-099_VN_Using-air-blow-fan-and-vacuum-clear-at-line-3","Signed","29.11.2025 09:07","Hieu Luong","Cuong.Nguyen@rrc-ps.com; anh.nguyen@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SF-25-099_VN_Using-air-blow-fan-and-vacuum-clear-at-line-3","1",,
+"REQ-0066","66","Medium","FAIR for QSB2054-2 ","Rejected","01.12.2025 08:58","Kien Luu","viet.dang@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","FAIR for QSB2054-2","1",,
+"REQ-0067","67","High","OT_25_0092_Q_VN_291125&LA_25_0072_Q_VN_230040_TD_171125","Signed","01.12.2025 11:27","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0092_Q_VN_291125&LA_25_0072_Q_VN_230040_TD_171125","1",,
+"REQ-0068","68","High","TAR_25_0021_VN_Q_250211_AT_051125","Canceled","01.12.2025 11:59","Hieu Luong","Nhuong.Do@rrc-ps.com","TAR_25_0021_VN_Q_250211_AT_051125","1","sads",
+"REQ-0069","69","Medium","PAI_100568S_VN_C_RRC2054","Canceled","02.12.2025 09:00","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""PAI_100568S_VN_C_RRC2054""
+Please kindly check and give me your approval!","1","Correct information",
+"REQ-0070","70","Medium","PAI_100568S_VN_C_RRC2054","Canceled","02.12.2025 10:02","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""PAI_100568S_VN_C_RRC2054"".
+Please kindly check and give me your approval!","1","Incorrect format",
+"REQ-0071","71","Medium","PAI_110062S_VN_C_RRC2054-SO","Rejected","02.12.2025 10:13","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""PAI_110062S_VN_C_RRC2054-SO""
+Please check the attached file and give me your approval!","1",,
+"REQ-0072","72","Medium","ASI_100568S_VN_C_RRC2054_Assembly-Instruction","Canceled","02.12.2025 10:45","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""ASI_100568S_VN_C_RRC2054_Assembly-Instruction"".
+Please kindly check and give me your approval!","1","Incorrect format",
+"REQ-0073","73","Medium","ASI_110062S_VN_C_RRC2054-SO","Canceled","02.12.2025 11:06","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""ASI_110062S_VN_C_RRC2054-SO""
+Please kindly check an give me your approval!","1","Incorrect format",
+"REQ-0074","74","High","Approval for QM_KPI_30112025","Signed","02.12.2025 11:34","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh Nhuong,
+Em gửi Anh KPI tháng 11 của QC ạ.","1",,
+"REQ-0075","75","High","PR_25_029_VN_QA_Consumable-material_Sign","Signed","02.12.2025 11:53","Hieu Luong","Nhuong.Do@rrc-ps.com","PR_25_029_VN_QA_Consumable-material_Sign","1",,
+"REQ-0076","76","High","PAI_110062S_VN_C_RRC2054-SO","Canceled","02.12.2025 13:17","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update revision of ""PAI_110062S_VN_C_RRC2054-SO""
+Please kindly check and ive me your approval!","1","Incorrect format",
+"REQ-0077","77","Medium","ASI_100498-20_VN_D_RRC2040_Assembly-Instruction","Signed","02.12.2025 15:16","Anh Nguyen","Nhuong.Do@rrc-ps.com","I'd like to update revision of ""ASI_100498-20_VN_D_RRC2040_Assembly-Instruction""
+Please kindly check and give me your approval!","1",,
+"REQ-0078","78","High","Release missing Jig SCD_RRC2054-2","Rejected","02.12.2025 15:23","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Folding Jig Cover","1",,
+"REQ-0079","79","High","Release missing Jig SCD_RRC2054-2","Rejected","02.12.2025 15:29","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Folding Jig_Right side","1",,
+"REQ-0080","80","High","Release missing Jig SCD_All standard model","Rejected","02.12.2025 15:56","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Labeling Jig Single Box","1",,
+"REQ-0081","81","High","PR_25_030_VN_QA_RRCVN-calibration-V4_Sign","Signed","03.12.2025 10:16","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_030_VN_QA_RRCVN-calibration-V4_Sign","1",,
+"REQ-0082","82","High","Request approval for ASI_100568S_VN_C_RRC2054_Assembly-Instruction","Canceled","03.12.2025 11:11","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_100568S_VN_C_RRC2054_Assembly-Instruction
+
+Please review and sign for approval. Thank you","1","Adjust line approval",
+"REQ-0083","83","High","Request approval for PAI_100568S_VN_C_RRC2054","Canceled","03.12.2025 11:13","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all, 
+
+I'd like to update to PAI_100568S_VN_C_RRC2054
+
+Please review and sign for approval. Thank you","1","Adjust line approval",
+"REQ-0084","84","Medium","Request approval for ASI_110062S_VN_C_RRC2054-SO","Canceled","03.12.2025 11:16","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you
+
+","1","Adjust line approval ",
+"REQ-0085","85","Medium","Request approval for PAI_110062S_VN_C_RRC2054-SO","Canceled","03.12.2025 11:18","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to PAI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you
+","1","update more information",
+"REQ-0086","86","High","Request approval for ASI_100568S_VN_C_RRC2054_Assembly-Instruction","Canceled","03.12.2025 11:26","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_100568S_VN_C_RRC2054_Assembly-Instruction
+
+Please review and sign for approval. Thank you","1","Remake documents",
+"REQ-0087","87","High","TAR_25_0022_VN_Q_250198_HL_211125","Signed","03.12.2025 11:27","Hieu Luong","Nhuong.Do@rrc-ps.com","TAR_25_0022_VN_Q_250198_HL_211125","1",,
+"REQ-0088","88","High","Request approval for PAI_100568S_VN_C_RRC2054","Rejected","03.12.2025 11:30","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_100568S_VN_C_RRC2054 Preassembly 
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0089","89","Medium","Request approval for PAI_110062S_VN_C_RRC2054-SO","Canceled","03.12.2025 13:32","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you","1","update information as Manager's requirements.",
+"REQ-0090","90","High","LSC_100568S_VN_G_RRC2054S_Sign","Signed","03.12.2025 14:52","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_100568S_VN_G_RRC2054S_Sign","1",,
+"REQ-0091","91","Medium","AA_L_216_VN_Handling-of-material-for-testing","Signed","04.12.2025 11:12","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh Nhuong,
+- Em gửi Anh tài liệu AA_L_216_VN_Handling-of-material-for-testing. Anh kiểm tra và phê duyệt ạ.
+
+- Em đã làm việc trực tiếp với Anh Huy (Log TL), và Anh Hùng (WH) để cập nhật tài liệu trên. 
+
+- Bên WH đã cập nhật và sửa lại tài liệu theo 1 số comment của Anh. 1 số comment khác, bên WH không từ chối và vẫn giữ nguyên ý theo tài liệu ban đầu của họ.
+
+Em cảm ơn.!
+Trong.!","1",,
+"REQ-0092","92","High","AA_X_003_VN_A_Construction-Rules","Rejected","04.12.2025 13:18","Binh Le","Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0093","93","High","SF-25-099_VN_Using-Laminar-flow-box-&-ESD-vacuum-cleaner-Line-3","Signed","04.12.2025 15:00","Cuong Nguyen","anh.nguyen@rrc-ps.com; Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear All,
+I would like to provide an update to the SF regarding the installation of the Laminar Flow Box and the ESD vacuum cleaner on Line 3.
+Please review the attached file and provide your approval.
+Thank you.","1",,
+"REQ-0094","94","High","CL_Q_203_VN_A_Packaging-SPA-Checklist_Signed","Rejected","04.12.2025 15:00","Hieu Luong","Ha.Le@rrc-ps.com","CL_Q_203_VN_A_Packaging-SPA-Checklist_Signed","1",,
+"REQ-0095","95","High","Special release for Petate Jig Using for Prototype","Canceled","04.12.2025 17:12","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Modify document",
+"REQ-0096","96","High","Release Jig SCD_211651-01_All standard model","Canceled","06.12.2025 10:48","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0097","97","High","Release Jig SCD_212265-01_RRC2040","Canceled","06.12.2025 10:50","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0098","98","High","Release Jig SCD_212285-01_RRC2040-2","Canceled","06.12.2025 10:53","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0099","99","High","Release Jig SCD_212442-01_RRC2054-2","Canceled","06.12.2025 10:59","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0100","100","High","Release Jig SCD_212445-01_RRC2054-2","Canceled","06.12.2025 11:01","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0101","101","High","Release Jig SCD_212446-02_RRC2054-2","Canceled","06.12.2025 11:03","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0102","102","High","Release Jig SCD_212447-01_RRC2054-2","Canceled","06.12.2025 11:05","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0103","103","High","Release Jig SCD_212448-01_RRC2054-2","Canceled","06.12.2025 11:06","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1","Add detail",
+"REQ-0104","104","High","Release Jig SCD_211651-01_All Standard model","Signed","06.12.2025 11:37","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_211651-01_All Standard model","1",,
+"REQ-0105","105","High","Release Jig SCD_212265-01_RRC2040-2","Signed","06.12.2025 11:42","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212265-01_RRC2040-2","1",,
+"REQ-0106","106","High","Release Jig SCD_212285-01_RRC2040-2","Signed","06.12.2025 11:49","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212285-01_RRC2040-2","1",,
+"REQ-0107","107","High","Release Jig SCD_212442-01_RRC2054-2","Signed","06.12.2025 11:51","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212442-01_RRC2054-2","1",,
+"REQ-0108","108","High","Release Jig SCD_212445-01_RRC2054-2","Signed","06.12.2025 11:53","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212445-01_RRC2054-2","1",,
+"REQ-0109","109","High","Release Jig SCD_212446-02_RRC2054-2","Signed","06.12.2025 11:56","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212446-02_RRC2054-2","1",,
+"REQ-0110","110","High","Release Jig SCD_212447-01_RRC2054-2","Signed","06.12.2025 11:57","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212447-01_RRC2054-2","1",,
+"REQ-0111","111","High","Release Jig SCD_212448-01x_RRC2054-2","Signed","06.12.2025 11:59","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212448-01x_RRC2054-2","1",,
+"REQ-0112","112","High","Release Jig SCD_212497-02_RRC2054","Signed","06.12.2025 12:00","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212497-02_RRC2054","1",,
+"REQ-0113","113","High","Release Jig SCD_212912-01_RRC2054-2","Signed","06.12.2025 12:13","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212912-01_RRC2054-2","1",,
+"REQ-0114","114","High","Release Jig SCD_212913-01_RRC2054-2","Signed","06.12.2025 12:14","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212913-01_RRC2054-2","1",,
+"REQ-0115","115","High","Release Jig SCD_212914-01_RRC2054-2","Signed","06.12.2025 12:15","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212914-01_RRC2054-2","1",,
+"REQ-0116","116","High","Release Jig SCD_212915-01_RRC2054-2","Signed","06.12.2025 12:16","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212915-01_RRC2054-2","1",,
+"REQ-0117","117","High","Release Jig SCD_212921-01_RRC2040-2","Signed","06.12.2025 12:17","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212921-01_RRC2040-2","1",,
+"REQ-0118","118","High","Release Jig SCD_212922-01_RRC2040-2","Signed","06.12.2025 12:19","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_212922-01_RRC2040-2","1",,
+"REQ-0119","119","High","Release Jig SCD_412232-01_RRC2054-2","Signed","06.12.2025 12:20","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_412232-01_RRC2054-2","1",,
+"REQ-0120","120","High","Release Jig SCD_412233-01_RRC2054-2","Signed","06.12.2025 12:21","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_412233-01_RRC2054-2","1",,
+"REQ-0121","121","High","Release Jig SCD_412234-01_RRC2040-2","Signed","06.12.2025 12:23","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD_412234-01_RRC2040-2","1",,
+"REQ-0122","122","High","Special release for Petate Jig Using for Prototype","Canceled","08.12.2025 09:26","Duc Bui","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Special release for Petate Jig Using for Prototype","1","File loss during synchronization.",
+"REQ-0123","123","High","SF-25-098_VN_Petalite_Jig_Using_for_Prototype_sample","Signed","08.12.2025 13:58","Duc Bui","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-098_VN_Petalite_Jig_Using_for_Prototype_sample
+Dear Team
+e gửi phát hành đặc biệt cho Jig của Petalite, Link bên dưới là báo cáo đo
+https://rrcpowersolutions.sharepoint.com/:f:/r/sites/RRCVN/Shared%20Documents/600_Quality/661_Special-Release/2025/SF-25-098_VN_Petalite_Jig_Using_for_Prototype_sample/Draft?csf=1&web=1&e=NanMLu
+","1",,
+"REQ-0124","124","High","OT_25_0095_Q_VN_081225","Signed","08.12.2025 15:16","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0095_Q_VN_081225","1",,
+"REQ-0125","125","High","Request approval for RA_VN_A_All_Models_Using Baumer camera","Canceled","09.12.2025 10:25","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; hung.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to RA_VN_A_All_Models_Using Baumer camera
+
+Please review and sign for approval.  
+
+Thank you","1","revise approver",
+"REQ-0126","126","High","AA_F_003_VN_F_Line_Clearing_Sign","Rejected","09.12.2025 10:27","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","AA_F_003_VN_F_Line_Clearing_Sign","1",,
+"REQ-0127","127","High","AA_F_024_VN_D_Glue-Dispenser_Sign","Canceled","09.12.2025 10:31","Hieu Luong","Cuong.Nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","AA_F_024_VN_D_Glue-Dispenser_Sign","1","cancel ",
+"REQ-0128","128","High","AA_F_032_VN_D_Maintenance-Test-System_Sign","Canceled","09.12.2025 10:33","Hieu Luong","Cuong.Nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","AA_F_032_VN_D_Maintenance-Test-System_Sign","1","ádsd",
+"REQ-0129","129","High","AA_F_206_VN_C_Auto-tape-dispenser_Sign","Canceled","09.12.2025 10:49","Hieu Luong","Cuong.Nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","AA_F_206_VN_C_Auto-tape-dispenser_Sign","1","ádsad",
+"REQ-0130","130","High","AA_X_003_VN_A_Construction-Rules","Signed","09.12.2025 11:52","Binh Le","Nhuong.Do@rrc-ps.com","All comments are improved","1",,
+"REQ-0131","131","High","ASI_412083_VN_H_RRC2040_Assembly-Instruction","Canceled","09.12.2025 12:59","Anh Nguyen","Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412083_VN_H_RRC2040_Assembly-Instruction"" as attached.
+Please refer and give me your approval!","1","Wrong approval line",
+"REQ-0132","132","High","ASI_412083_VN_H_RRC2040_Assembly-Instruction","Canceled","09.12.2025 13:59","Anh Nguyen","Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412083_VN_H_RRC2040_Assembly-Instruction"" as attached.
+Please refer and give me your approval!","1","system fails",
+"REQ-0133","133","Medium","Request approval for PAI_100568S_VN_C_RRC2054","Canceled","09.12.2025 14:01","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_100568S_VN_C_RRC2054 Preassembly 
+
+Please review and sign for approval. Thank you","1","Remakes document",
+"REQ-0134","134","Medium","Request approval for ASI_100559S_VN_D_RRC2040-2","Canceled","09.12.2025 14:26","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to ASI_100559S_VN_D_RRC2040-2
+Please review and sign for approval.
+
+ Thank you","1","Remakes document",
+"REQ-0135","135","High","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK","Canceled","09.12.2025 15:43","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK","1","update again",
+"REQ-0136","136","High","Request approval for ASI_412084_VN_D_RRC2040-2S_Preassembly","Canceled","10.12.2025 08:13","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412084_VN_D_RRC2040-2S_Preassembly
+
+Please review and sign for approval. 
+
+Thank you","1","Revise signed document",
+"REQ-0137","137","High","Request approval for ASI_100559S_VN_D_RRC2040-2","Signed","10.12.2025 08:17","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to ASI_100559S_VN_D_RRC2040-2
+Please review and sign for approval.
+
+ Thank you","1",,
+"REQ-0138","138","High","Request approval for PAI_100559S_VN_D_RRC2040-2","Signed","10.12.2025 09:02","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_100559S_VN_D_RRC2040-2
+
+Please review and sign for approval.
+
+ Thank you","1",,
+"REQ-0139","139","High","Request approval for ASI_412084_VN_D_RRC2040-2S_Preassembly","Signed","10.12.2025 09:18","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412084_VN_D_RRC2040-2S_Preassembly
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0140","140","High","PR_25_031_VN_QA_Consumable-material","Canceled","10.12.2025 10:40","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_031_VN_QA_Consumable-material","1","sd",
+"REQ-0141","141","High","PR_25_031_VN_QA_Consumable-material","Signed","10.12.2025 14:17","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_031_VN_QA_Consumable-material","1",,
+"REQ-0142","142","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:20","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+412235-01 - JIG RRC2054 Visual-check","1",,
+"REQ-0143","143","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:22","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+212955-01 - JIG-RRC2054_Visual-check_Bottom-Plate","1",,
+"REQ-0144","144","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:23","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+212956-01 - JIG-RRC2054_Visual-check_Left-Plate","1",,
+"REQ-0145","145","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:25","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+212957-01 - JIG-RRC2054_Visual-check_Middle-Plate","1",,
+"REQ-0146","146","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:27","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+212958-01 - JIG-RRC2054_Visual-check_Right-Plate","1",,
+"REQ-0147","147","High","Release JIG SCD - Camera visual check soldering Jig - RRC2054","Signed","10.12.2025 17:28","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Camera visual check soldering Jig - RRC2054
+212959-01 - JIG-RRC2054_Visual-check_Top-Plate","1",,
+"REQ-0148","148","Medium","AA_F_004_VN_G_Manual-soldering","Signed","11.12.2025 13:29","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang 4.3.2
+Bổ sung mục 4.2.4.3: Hằng năm","1",,
+"REQ-0149","149","Medium","AA_F_024_VN_D_Glue-Dispenser","Signed","11.12.2025 13:40","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.5.3 Hằng năm
+Chuyển mục 5.1 sang mục 4.5","1",,
+"REQ-0150","150","Medium","AA_F_032_VN_D_Maintenance-Test-System","Signed","11.12.2025 13:53","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang mục 4
+Thêm mục 4.10: Kiểm tra an toàn điện","1",,
+"REQ-0151","151","Medium","AA_F_035_VN_D_Maintenance-Basic-Adapter","Signed","11.12.2025 14:08","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang mục 4.
+Thêm mục 4.10: Kiểm tra ESD bề mặt","1",,
+"REQ-0152","152","Medium","AA_F_034_VN_D_Maintenance-Of-PCBA-Testing- Jigs","Signed","11.12.2025 14:12","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang mục 4
+Thêm mục 4.8: Kiểm tra ESD bề mặt","1",,
+"REQ-0153","153","Medium","AA_F_036_VN_D_Maintenance-Connection- Cable","Signed","11.12.2025 14:18","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang mục 4.","1",,
+"REQ-0154","154","Medium","AA_F_203_VN_D_Air-Compressor","Signed","11.12.2025 14:33","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Gộp mục 4.7 vào trong mục 4.6
+Thêm mục 4.12.3: Hằng quý
+Chuyển mục 5.1 sang 4.12","1",,
+"REQ-0155","155","High","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK","Canceled","11.12.2025 15:05","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK","1","Hung Dang cannot view the file  ",
+"REQ-0156","156","Medium","AA_F_206_VN_C_Auto-tape-dispenser","Signed","11.12.2025 15:22","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.5.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.5","1",,
+"REQ-0157","157","Medium","AA_F_208_VN_C_Tip-Cleaner","Signed","11.12.2025 15:26","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.3.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.3
+[Add section 4.3.3: Yearly
+Move section 5.1 to section 4.3]","1",,
+"REQ-0158","158","Medium","AA_F_226_VN_D_Zebra-printer","Signed","11.12.2025 15:32","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.5.2: Hằng năm
+Chuyển mục 5.1 sang mục 4.5
+[Add section 4.5.2: Yearly
+Move section 5.1 to section 4.5]","1",,
+"REQ-0159","159","Medium","AA_F_211_VN_C_Generator","Signed","11.12.2025 15:41","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Bổ sung mục 4.2.4.2: Hằng quý
+Chuyển mục 5.1 sang mục 4.2.4
+[Add section 4.2.4.2: Quarterly
+Move section 5.1 to section 4.2.4]","1",,
+"REQ-0160","160","Medium","AA_F_212_VN_C_Maintenance-Resistance- Welding-Machine","Signed","11.12.2025 15:45","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.
+[Add section 4.3: Yearly
+Move section 5.1 to section 4.]","1",,
+"REQ-0161","161","Medium","AA_F_217_VN_C_Glue-presser","Signed","11.12.2025 15:51","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.2.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.3
+[Add section 4.2.3: Yearly
+Move section 5.1 to section 4.3]","1",,
+"REQ-0162","162","Medium","AA_F_232_VN_B_Cell-sorter-Maintenance- Instructions","Signed","11.12.2025 16:15","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Chuyển mục 5.1 sang mục 4.
+[Move section 5.1 to section 4.]","1",,
+"REQ-0163","163","Medium","AA_F_231_VN_B_Conveyor","Signed","11.12.2025 16:19","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.2.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.2
+[Add section 4.2.3: Yearly
+Move section 5.1 to section 4.2]","1",,
+"REQ-0164","164","Medium","AA_F_233_VN_B_Preprogram-Maintenance- Instructions","Signed","11.12.2025 16:22","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.
+[Add section 4.3 Yearly
+Move section 5.1 to section 4.]","1",,
+"REQ-0165","165","Medium","AA_F_205_VN_C_Fume-extractor","Signed","11.12.2025 16:28","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Thêm mục 4.6.3: Hằng năm
+Chuyển mục 5.1 sang mục 4.6
+[Add section 4.6.3: Yearly
+Move section 5.1 to secton 4.6]","1",,
+"REQ-0166","166","Medium","Overtime request (05/12)_ Quyen Dao","Signed","12.12.2025 13:40","Quyen Dao","Ingo.Bauerschmidt@rrc-ps.com","Reason for working OT:
+- Prepare new POs for supplier.
+- Follow up incoming shipment and get training from Huy","1",,
+"REQ-0167","167","Medium","AA_Q_202_VN_C_PCBA-Incoming-Quality-Inspection","Signed","12.12.2025 13:56","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh @Nhuong,
+I'd like to send you the document. Please help check and sign.
+
+Best regard!
+Trong.!","1",,
+"REQ-0168","168","High","PR_25_032_VN_QA_Consumable-material","Canceled","12.12.2025 14:57","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_032_VN_QA_Consumable-material","1","shortage item",
+"REQ-0169","169","High","Request approval for PAI_100568S_VN_C_RRC2054","Signed","12.12.2025 15:05","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_100568S_VN_C_RRC2054 Preassembly 
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0170","170","High","Request approval for  ASI_100568S_VN_C_RRC2054_Assembly-Instruction","Signed","12.12.2025 15:09","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_100568S_VN_C_RRC2054_Assembly-Instruction 
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0171","171","High","Request approval for PAI_110064S_VN_C_RRC2054-2","Signed","12.12.2025 15:14","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_110064S_VN_C_RRC2054-2
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0172","172","High","Request approval for ASI_110064S_VN_C_RRC2054-2_Assembly-Instruction","Signed","12.12.2025 15:17","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  ASI_110064S_VN_C_RRC2054-2_Assembly-Instruction
+
+Please review and sign for approval. Thank you","1",,
+,,"High","Request approval for ASI_412080_VN_E_RRC2054-2_Preassembly-Instruction","Canceled","15.12.2025 09:15","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  ASI_412080_VN_E_RRC2054-2_Preassembly-Instruction
+
+Please review and sign for approval. Thank you","0","Resubmit documents",
+"REQ-0174","174","High","ASI_412083_VN_H_RRC2040_Assembly-Instruction","Canceled","15.12.2025 10:21","Anh Nguyen","Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412083_VN_H_RRC2040_Assembly-Instruction"" as attached.
+Please kindly check and give me your approval!","1","system fails",
+"REQ-0175","175","High","PR_25_032_VN_QA_Consumable-material_resubmit","Canceled","15.12.2025 10:44","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_032_VN_QA_Consumable-material_resubmit","1","already approve by HuyenLE ",
+"REQ-0176","176","High","ASI_412083_VN_H_RRC2040_Assembly-Instruction","Canceled","15.12.2025 11:05","Cuong Nguyen","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Id like to update ""ASI_412083_VN_H_RRC2040_Assembly-Instruction""
+Please kindly check and give me your approval!","1","remake",
+"REQ-0177","177","High","ASI_412083_VN_H_RRC2040_Assembly-Instruction","Canceled","15.12.2025 11:09","Cuong Nguyen","Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Please check and give me your approal for ""ASI_412083_VN_H_RRC2040_Assembly-Instruction""","1","Change the approval line.",
+"REQ-0178","178","Medium","AA_F_210_VN_C_Auto label dispenser","Signed","15.12.2025 11:17","Cuong Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Đổi tên tài liệu.
+Cập nhật mục 4: Hướng dẫn công việc dựa theo tài liệu của nhà sản xuất
+Chuyển mục 5.1 sang mục 4.6.
+[Rename the document.
+Update to Section 4: Work instructions based on the manufacturer's documentation
+Move section 5.1 to section 4.6.]","1",,
+"REQ-0179","179","High","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK_resubmit","Signed","15.12.2025 11:22","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-101_VN_205560-03_Shunda_PE-Bag_thickness-NOK_resubmit","1",,
+"REQ-0180","180","High","Request approval for ASI_412080_VN_E_RRC2054-2_Preassembly-Instruction","Signed","15.12.2025 11:50","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  ASI_412080_VN_E_RRC2054-2_Preassembly-Instruction
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0181","181","High","Request approval for PAI_100498_VN_D_RRC2040_Packaging-Instruction","Signed","15.12.2025 13:06","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_100498_VN_D_RRC2040_Packaging-Instruction
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0182","182","Medium","FO_B_215_VN Tools retention and use agreement","Signed","15.12.2025 13:57","Ha Le","Trang.Vu@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0183","183","High","Release JIG SCD - Welding Jig RRC2040","Signed","15.12.2025 14:14","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Welding Jig RRC2040
+Welding Jig Assy","1",,
+"REQ-0184","184","High","Release JIG SCD - Welding Jig RRC2040","Signed","15.12.2025 14:15","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Welding Jig RRC2040
+Bushing part","1",,
+"REQ-0185","185","High","Release JIG SCD - Welding Jig RRC2040","Signed","15.12.2025 14:16","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - Welding Jig RRC2040
+Pin part","1",,
+"REQ-0186","186","High","ASI_412177_VN_B_RRC3570-4_Assembly-Instruction","Signed","16.12.2025 14:27","Anh Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412177_VN_B_RRC3570-4_Assembly-Instruction""
+Please refer and give me your approval!","1",,
+"REQ-0187","187","High","PR_25_033_VN_QA_Consumable-material","Canceled","16.12.2025 15:57","Hieu Luong","Nhuong.Do@rrc-ps.com; Huyen.Le@rrc-ps.com","PR_25_033_VN_QA_Consumable-material","1","Canceled since Huyen Le already resigns.",
+"REQ-0188","188","High","LSC_100498_VN_K_RRC2040_Sign","Rejected","17.12.2025 11:29","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_100498_VN_K_RRC2040_Sign","1",,
+"REQ-0189","189","High","AA_Q_223_VN_D_Sorting-or-Rework-instruction_release","Signed","17.12.2025 11:59","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh @Nhuong,
+Em gửi tài liệu AA_Q_223_VN_D_Sorting-or-Rework-instruction. 
+Em đã cập nhật lại tài liệu, Anh kiểm tra và phê duyệt ạ.
+
+Em cảm ơn.!
+Trong.!","1",,
+"REQ-0190","190","High","LA_25_0073_Q_VN&LA_25_0074_Q_VN&LA_25_0073_Q_VN","Signed","17.12.2025 14:55","Hieu Luong","Nhuong.Do@rrc-ps.com","LA_25_0073_Q_VN&LA_25_0074_Q_VN&LA_25_0073_Q_VN","1",,
+"REQ-0191","191","High","Hang Vuong","Rejected","18.12.2025 09:33","Hang Vuong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Sebastian.Coelsch@rrc-ps.com; Ulrich.Sonndag@rrc-ps.com","Approve the use of materials until the old versions are fully used up: 211964-05_A, 211455-05_C, 212300-02_B","1",,
+"REQ-0192","192","Medium","LSC_100498_VN_K_Approval-Page","Signed","18.12.2025 09:51","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update follow 
+ASI_412083_VN_H_RRC2040_Assembly-Instruction_released
+ASI_100498-20_VN_D_RRC2040_Assembly-Instruction_released
+","1",,
+"REQ-0193","193","Medium","AA_Q_242_VN_A_Final-Quality-Control_release","Signed","18.12.2025 10:11","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh @Nhuong
+Em gửi Anh tài liệu AA_Q_242_VN_A_Final-Quality-Control_release. 
+Anh kiểm tra và phê duyệt ạ.
+
+Em cảm ơn.!
+Trong.!","1",,
+"REQ-0194","194","Medium","Test request","Canceled","18.12.2025 15:18","Lam Vo","Huybinh.le@rrc-ps.com; Lam.Vo@rrc-ps.com","For testing purpose only","1","Cancel test request",
+"REQ-0195","195","High","LA_25_0076_Q_VN_230003_ND_191225","Signed","18.12.2025 16:18","Hieu Luong","Nhuong.Do@rrc-ps.com; Hang.Nguyen@rrc-ps.com","LA_25_0076_Q_VN_230003_ND_191225 (Leave Applcation)","1",,
+"REQ-0196","196","High","LSC_100498_VN_L_Approval-Page_signed","Canceled","19.12.2025 11:30","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update 
+PAI_100498_VN_D_RRC2040_Packaging-Instruction_released
+","1","Flow cancelled.",
+"REQ-0197","197","High","Request approval for PAI_110062S_VN_C_RRC2054-SO","Signed","20.12.2025 10:19","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to  PAI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you
+","1",,
+"REQ-0198","198","High","Request approval for ASI_110062S_VN_C_RRC2054-SO","Canceled","20.12.2025 10:21","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you","1","revise documents",
+"REQ-0199","199","High","SF-25-105_VN_100559S-12_RRC2040-2_Use-paper-ASI","Canceled","20.12.2025 13:44","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-105_VN_100559S-12_RRC2040-2_Use-paper-ASI
+During perform LSC
+A10 ASI on MES do not correct station ","1","Wrong file attach",
+"REQ-0200","200","High","SF-25-105_VN_100559S-12_RRC2040-2_Use-paper-ASI","Canceled","20.12.2025 13:47","Chien Tran","Trang.Dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","A10 ASI on MES do not correct station","1","Wrong person who can signed",
+"REQ-0201","201","High","LSC_100568S_VN_G_Approval-Page","Rejected","21.12.2025 14:31","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Cập nhật theo hướng dẫn lắp ráp mới
+ASI_100568S_VN_C_RRC2054_Assembly-Instruction_released
+PAI_100568S_VN_C_RRC2054_released","1",,
+"REQ-0202","202","High","LSC_110062S_VN_E_Approval-Page","Rejected","21.12.2025 16:59","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Cập nhật theo hướng dẫn lắp ráp mới
+ASI_412085_VN_E_RRC2054_Assembly-Instruction_released.
+
+","1",,
+"REQ-0203","203","High","LSC_110064S_VN_F_Approval-Page","Rejected","21.12.2025 17:24","Chien Tran","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Cập nhật: 
+ASI_412080_VN_E_RRC2054-2_Preassembly-Instruction
+ASI_110064S_VN_C_RRC2054-2_Assembly-Instruction
+PAI_110064S_VN_C_RRC2054-2
+","1",,
+"REQ-0204","204","High","OT_25_0101_Q_VN_201225","Signed","21.12.2025 23:38","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0101_Q_VN_201225","1",,
+"REQ-0205","205","High","Request approval for ASI_110062S_VN_C_RRC2054-SO","Signed","22.12.2025 08:34","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_110062S_VN_C_RRC2054-SO
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0206","206","High","Request approval for RA_VN_A_All_Models_Using Baumer camera","Signed","22.12.2025 12:39","Trung Nguyen","trong.dang@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to RA_VN_A_All_Models_Using Baumer camera
+
+Please review and sign for approval.  
+
+Thank you","1",,
+"REQ-0207","207","Medium","Request approval for ASI_110059S_VN_D_RRC2040-2-OL","Rejected","22.12.2025 14:27","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to  ASI_110059S_VN_D_RRC2040-2-OL Preassembly
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0208","208","Medium","Request approval for PAI_110059S_VN_B_RRC2040-2-OL","Rejected","22.12.2025 14:29","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110059S_VN_B_RRC2040-2-OL Preassembly 
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0209","209","High","LSC_110186S_VN_E_RRC2054-2-LM","Rejected","22.12.2025 16:41","Hoa Vu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0210","210","Medium","LSC_110186S_VN_E_RRC2054-2-LM_Signed","Signed","22.12.2025 20:07","Chien Tran","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update ASI pre_Assembly","1",,
+"REQ-0211","211","High","SF-25-105_VN_100559S-12_RRC2040-2_Use-paper-ASI","Signed","23.12.2025 05:15","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-105_VN_100559S-12_RRC2040-2_Use-paper-ASI 
+MES station A10 didn't have correct ASI ","1",,
+"REQ-0212","212","Medium","SF-25-106_VN_RRC2054-2&variant_RRCVN_test-fixture","Signed","23.12.2025 09:10","Hoa Vu","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0213","213","High","OT_25_0102_Q_VN_221225","Canceled","23.12.2025 09:47","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0102_Q_VN_221225","1",,
+"REQ-0214","214","High","OT_25_0102_Q_VN_221225","Canceled","23.12.2025 10:20","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0102_Q_VN_221225","1","8uui",
+"REQ-0215","215","High","OT_25_0102_Q_VN_221225","Canceled","23.12.2025 10:40","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0102_Q_VN_221225","1","hhgf",
+"REQ-0216","216","High","Request approval for ASI_110059S_VN_D_RRC2040-2-OL","Signed","23.12.2025 11:15","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to  ASI_110059S_VN_D_RRC2040-2-OL Preassembly
+
+Please review and sign for approval. Thank you","1",,
+"REQ-0217","217","High","Request approval for PAI_110059S_VN_B_RRC2040-2-OL","Signed","23.12.2025 11:17","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110059S_VN_B_RRC2040-2-OL Preassembly 
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0218","218","High","Request approval for PAI_110186S_VN_C_RRC2054-2-LM","Signed","23.12.2025 11:20","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_110186S_VN_C_RRC2054-2-LM
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0219","219","High","Request approval for ASI_110186S_VN_C_RRC2054-2-LM","Signed","23.12.2025 11:23","Trung Nguyen","Hieu.Luong@rrc-ps.com; Huybinh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all, 
+
+I'd like to update to  ASI_110186S_VN_C_RRC2054-2-LM
+
+Please review and sign for approval. 
+Thank you","1",,
+"REQ-0220","220","High","OT_25_0102_Q_VN_221225","Canceled","23.12.2025 14:29","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0102_Q_VN_221225","1","File is missing in the In Progress folder.",
+"REQ-0221","221","High","Release SCD JIG_FQC RRC2020","Rejected","23.12.2025 15:30","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release SCD JIG_FQC RRC2020
+For simpler control, the SCD shows only one big single part. However, in reality, it will be separated into four plates for making in-house . After assembly, it will work as one part, the same as shown in the SCD.","1",,
+"REQ-0222","222","High","OT_25_0103_Q_VN_241225","Signed","23.12.2025 17:29","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0103_Q_VN_241225","1",,
+"REQ-0223","223","High","LSC_110062S_VN_E_RRC2054-SO_sign","Signed","24.12.2025 09:13","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_110062S_VN_E_RRC2054-SO_sign","1",,
+"REQ-0224","224","High","LA_25_0078_Q_VN_230003_ND_291225","Signed","24.12.2025 09:25","Hieu Luong","Nhuong.Do@rrc-ps.com; Hang.Nguyen@rrc-ps.com","LA_25_0078_Q_VN_230003_ND_291225","1",,
+"REQ-0225","225","Medium","FO_C_106_VN_Test-Plan-Report-Drop_Signature","Rejected","25.12.2025 10:36","Kien Luu","viet.dang@rrc-ps.com; binh.le@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","release form for Drop test for battery in RRC VN","1",,
+"REQ-0226","226","High","LSC_100568S_VN_G_RRC2054S_Sign","Signed","25.12.2025 10:48","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_100568S_VN_G_RRC2054S_Sign","1",,
+"REQ-0227","227","Medium","FO_C_106_VN_Test-Plan-Report-Drop_Released","Rejected","25.12.2025 15:17","Kien Luu","binh.le@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Release form for Drop test battery","1",,
+"REQ-0228","228","High","SF-25-108_VN_212589-01_Taiyi_Device-label-white-mark_signed","Signed","25.12.2025 15:32","Trong Dang","hang.vuong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Team, 
+I'd like to send you the SF-25-108_VN.
+Please kindly help check and sign.
+
+Best regard!
+Trong.!","1",,
+"REQ-0229","229","High","SF-25-107_VN_410152-01_Fanglin_Connector_Connector-has-foreign-material","Signed","25.12.2025 16:21","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-107_VN_410152-01_Fanglin_Connector_Connector-has-foreign-material","1",,
+"REQ-0230","230","High","LA_25_0077_Q_VN_250198_HL_221225","Signed","25.12.2025 16:43","Hieu Luong","Nhuong.Do@rrc-ps.com","LA_25_0077_Q_VN_250198_HL_221225","1",,
+"REQ-0231","231","High","OT_25_0105_Q_VN_291225","Signed","30.12.2025 12:49","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0105_Q_VN_291225","1",,
+"REQ-0232","232","High","SF-25-110_VN_RRC3570-04_cell_tab_6L_212724-02","Canceled","31.12.2025 09:31","Binh Le","hang.vuong@rrc-ps.com; Hung.Dang@rrc-ps.com; Trang.Dang@rrc-ps.com",,"1","Cancelling due to attached wrong file",
+"REQ-0233","233","High","SF-25-110_VN_RRC3570-04_cell_tab_6L_212724-02_releasing","Signed","31.12.2025 09:48","Binh Le","hang.vuong@rrc-ps.com; Hung.Dang@rrc-ps.com; trong.dang@rrc-ps.com",,"1",,
+"REQ-0234","234","High","Release new company layout ver E","Rejected","31.12.2025 16:22","Duc Bui","Hang.Nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release new company layout ver E","1",,
+"REQ-0235","235","High","OT_25_0106_Q_VN_030126","Signed","04.01.2026 22:59","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_25_0106_Q_VN_030126","1",,
+"REQ-0236","236","High","Release new company layout ver E","Signed","06.01.2026 14:03","Duc Bui","Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release new company layout ver E","1",,
+"REQ-0237","237","Medium","WP_412158_B_OP-AWS_QSB2054_VN","Signed","08.01.2026 09:37","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com","I'd like to update ""WP_412158_B_OP-AWS_QSB2054_VN""
+Please check and give me your approval!","1",,
+"REQ-0238","238","High","Release missing SCD Jig -  Spinel","Signed","09.01.2026 13:58","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release missing SCD Jig -  Spinel - Welding Jig","1",,
+"REQ-0239","239","High","Release missing SCD Jig - Spinel","Signed","09.01.2026 13:59","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release missing SCD Jig - Spinel - Welding Jig","1",,
+"REQ-0240","240","High","OT_26_0001_Q_VN_090126","Signed","09.01.2026 16:04","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0001_Q_VN_090126","1",,
+"REQ-0241","241","High","OT_26_0001_Q_VN_090126_resubmit","Signed","10.01.2026 13:54","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0001_Q_VN_090126_resubmit","1",,
+"REQ-0242","242","High","Release final quality control (FQC) Jig SCD","Signed","10.01.2026 15:53","Duc Bui","duong.nguyen@rrc-ps.com","Release final quality control (FQC) Jig SCD.
+This block is split into four sub-parts and assembled with screws to simplify manufacturing and reduce material cost.","1",,
+"REQ-0243","243","High","OT_26_0002_Q_VN_120126","Signed","12.01.2026 12:58","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0002_Q_VN_120126","1",,
+"REQ-0244","244","Medium","FAIR_110338-01_A_RRC3570-4_Signature","Rejected","12.01.2026 14:32","Kien Luu","Nhuong.Do@rrc-ps.com","Get approval for FAIR_110338-01_A_RRC3570-4_Signature","1",,
+"REQ-0245","245","Medium","FO_C_106_VN_Test-Plan-Report-Drop_Signature_Update","Rejected","13.01.2026 10:04","Kien Luu","viet.dang@rrc-ps.com; binh.le@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","Release form for drop test battery","1",,
+"REQ-0246","246","Medium","FAIR_110338-01_A_RRC3570-4_Signature","Rejected","13.01.2026 11:06","Kien Luu","Nhuong.Do@rrc-ps.com","Release FAIR for petalite","1",,
+"REQ-0247","247","High","Request approval for ASI_412158_VN_D_QSB2054_PreAssembly","Canceled","13.01.2026 13:42","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412158_VN_D_QSB2054_PreAssembly
+
+Please review and sign for approval. 
+
+Thank you","1","remake ",
+"REQ-0248","248","High","Request approval for ASI_150001B_VN_D_QSB2054_BatteryPack","Canceled","13.01.2026 13:43","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_150001B_VN_D_QSB2054_BatteryPack
+
+Please review and sign for approval. 
+
+Thank you","1","remake",
+"REQ-0249","249","High","Request approval for PAI_150001B_VN_D_QSB2054_Packaging instruction","Canceled","13.01.2026 13:45","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_150001B_VN_D_QSB2054_Packaging instruction
+
+Please review and sign for approval. 
+
+Thank you","1","remake ",
+"REQ-0250","250","High","Request approval for LSC_150001B_VN_B_QSB2054","Canceled","13.01.2026 13:56","Trung Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to LSC_150001B_VN_B_QSB2054
+
+Please review and sign for approval. 
+
+Thank you","1","remake",
+"REQ-0251","251","Medium","FAIR_110338-01_A_RRC3570-4_Signature_Update","Signed","13.01.2026 14:29","Kien Luu","Nhuong.Do@rrc-ps.com","FAIR for Petalite","1",,
+"REQ-0252","252","High","PR_26_002_VN_QA_Stationery","Signed","13.01.2026 15:58","Hieu Luong","Nhuong.Do@rrc-ps.com","PR_26_002_VN_QA_Stationery","1",,
+"REQ-0253","253","High","PR_26_001_VN_QA_Consumable-material","Rejected","13.01.2026 15:59","Hieu Luong","Nhuong.Do@rrc-ps.com; Trang.Vu@rrc-ps.com","PR_26_001_VN_QA_Consumable-material","1",,
+"REQ-0254","254","High","VA_060_VN_B_Control-Non-Conforming-Products","Canceled","14.01.2026 09:56","Hieu Luong","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","VA_060_VN_B_Control-Non-Conforming-Products","1","cancel ",
+"REQ-0255","255","High","SDS_QSB_Batteries_C_2026-01-01","Rejected","14.01.2026 10:52","Binh Le","kien.luu@rrc-ps.com; viet.dang@rrc-ps.com; duong.nguyen@rrc-ps.com",,"1",,
+"REQ-0256","256","High","Request approval for LSC_150001B_VN_B_QSB2054","Signed","14.01.2026 16:07","Trung Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to LSC_150001B_VN_B_QSB2054
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0257","257","High","Request approval for PAI_150001B_VN_D_QSB2054_Packaging instruction","Signed","14.01.2026 16:09","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to PAI_150001B_VN_D_QSB2054_Packaging instruction
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0258","258","High","Request approval for ASI_150001B_VN_D_QSB2054_BatteryPack","Signed","14.01.2026 16:11","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_150001B_VN_D_QSB2054_BatteryPack
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0259","259","High","Request approval for ASI_412158_VN_D_QSB2054_PreAssembly","Canceled","14.01.2026 16:16","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412158_VN_D_QSB2054_PreAssembly
+
+Please review and sign for approval. 
+
+Thank you","1","Resubmit.  ",
+"REQ-0260","260","High","OT_26_0003_Q_VN_170126","Signed","15.01.2026 09:14","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0003_Q_VN_170126","1",,
+"REQ-0261","261","Medium","CAR_InternalAudits_Production,PE_2025-04-10","Canceled","15.01.2026 10:18","Anh Nguyen","duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""CAR_InternalAudits_Production,PE_2025-04-10"" as attached.
+
+Please refer to it!","1","Error file",
+"REQ-0262","262","High","Cicor Audit Corrective Action Items","Canceled","15.01.2026 13:02","Nhuong Do","Ingo.Bauerschmidt@rrc-ps.com","I would like to submit the CAR reports ( 5 reports) from Cicor for approval to close the audit","1","Approved via Share folder already",
+"REQ-0263","263","High","VA_060_VN_B_Control-Non-Conforming-Products_Released","Canceled","15.01.2026 13:47","Hieu Luong","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","VA_060_VN_B_Control-Non-Conforming-Products_Released","1","sdas",
+"REQ-0264","264","High","Request approval for ASI_412158_VN_D_QSB2054_PreAssembly","Canceled","16.01.2026 11:30","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412158_VN_D_QSB2054_PreAssembly
+
+Please review and sign for approval. 
+
+Thank you","1","resubmit documents",
+"REQ-0265","265","High","VA_060_VN_B_Control-Non-Conforming-Products_Sign","Signed","16.01.2026 12:34","Hieu Luong","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","VA_060_VN_B_Control-Non-Conforming-Products_Sign","1",,
+"REQ-0266","266","High","FO_Q_019_VN_B_Quality-Assurance-Agreement_Sign","Signed","16.01.2026 12:35","Hieu Luong","Ha.Le@rrc-ps.com; Nhuong.Do@rrc-ps.com","FO_Q_019_VN_B_Quality-Assurance-Agreement_Sign","1",,
+"REQ-0267","267","High","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","Canceled","16.01.2026 15:17","Hieu Luong","David.Bui@rrc-ps.com; hung.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","1","wrong date",
+"REQ-0268","268","High","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","Canceled","16.01.2026 16:08","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","1","cancel due to stupid app, attach wrong file by itself not me   ",
+"REQ-0269","269","High","LA_26_0002_Q&LA_26_0001_Q","Signed","16.01.2026 16:14","Hieu Luong","Nhuong.Do@rrc-ps.com","LA_26_0002_Q&LA_26_0001_Q","1",,
+"REQ-0270","270","High","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","Canceled","16.01.2026 16:20","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","1","stupid app",
+"REQ-0271","271","High","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","Canceled","16.01.2026 16:31","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired","1","no file in folder    ",
+"REQ-0272","272","High","LSC_100498_VN_L_Approval-Page","Signed","16.01.2026 18:59","Chien Tran","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update PAI version C->D","1",,
+"REQ-0273","273","Medium","SF-26-001_VN_100498-20_RRC2040_Wrong Header","Signed","16.01.2026 22:09","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-001_VN_100498-20_RRC2040_Wrong Header","1",,
+"REQ-0274","274","High","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired_Sign","Rejected","19.01.2026 08:51","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Glue-cylinder-not-have-date-code&expired_Sign","1",,
+"REQ-0275","275","High","ASI_412160-02_VN_C_QSB2040-2_Preassembly","Canceled","19.01.2026 11:26","Anh Nguyen","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""ASI_412160-02_VN_C_QSB2040-2_Preassembly""
+Please kindly check and approve!","1","change line approval",
+"REQ-0276","276","High","ASI_412160-02_VN_C_QSB2040-2_Preassembly","Rejected","19.01.2026 12:44","Anh Nguyen","Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""ASI_412160-02_VN_C_QSB2040-2_Preassembly""
+Please kindly check and give me your approval!","1",,
+"REQ-0277","277","High","ASI_412160_VN_C_QSB2040-2_Preassembly","Canceled","19.01.2026 14:47","Anh Nguyen","Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Id like to update ""ASI_412160_VN_C_QSB2040-2_Preassembly""
+Please check and give me your approval","1","change approval line",
+"REQ-0278","278","High","ASI_150004B_VN_C_QSB2040-2_BatteryPack","Canceled","19.01.2026 14:59","Anh Nguyen","Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""ASI_150004B_VN_C_QSB2040-2_BatteryPack""
+Please check and give me your approval!","1","change approval line",
+"REQ-0279","279","High","PAI_150004B_VN_B_QSB2040-2_Packaging-Instruction","Canceled","19.01.2026 15:19","Anh Nguyen","Hieu.Luong@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""PAI_150004B_VN_B_QSB2040-2_Packaging-Instruction""
+Please check and give me your approval!","1","change approval line",
+"REQ-0280","280","High","OT_26_0005_Q_VN_190126","Canceled","19.01.2026 15:29","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0005_Q_VN_190126","1","change approval line",
+"REQ-0281","281","High","ASI_412160_VN_C_QSB2040-2_Preassembly","Signed","19.01.2026 15:45","Anh Nguyen","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update ""ASI_412160_VN_C_QSB2040-2_Preassembly""","1",,
+"REQ-0282","282","High","ASI_150004B_VN_C_QSB2040-2_BatteryPack","Signed","19.01.2026 15:49","Anh Nguyen","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update ""ASI_150004B_VN_C_QSB2040-2_BatteryPack""","1",,
+"REQ-0283","283","High","PAI_150004B_VN_B_QSB2040-2_Packaging-Instruction","Signed","19.01.2026 15:56","Anh Nguyen","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Update ""PAI_150004B_VN_B_QSB2040-2_Packaging-Instruction""","1",,
+"REQ-0284","284","High","OT_26_0005_Q_VN_190126_Sign","Signed","19.01.2026 16:05","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0005_Q_VN_190126_Sign","1",,
+"REQ-0285","285","High","Request approval for ASI_412158_VN_D_QSB2054_PreAssembly","Canceled","20.01.2026 13:01","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412158_VN_D_QSB2054_PreAssembly
+
+Please review and sign for approval. 
+
+Thank you","1","Remake document",
+"REQ-0286","286","High","SF-25-109_VN_210838_WH_Konishi-glue-tube-expired_Sign","Signed","20.01.2026 15:02","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-25-109_VN_210838_WH_Konishi-glue-tube-expired_Sign","1",,
+"REQ-0287","287","High","ER_VN_210838_Konishi_Glue_Adhesive-test_Sign","Signed","20.01.2026 17:10","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","ER_VN_210838_Konishi_Glue_Adhesive-test_Sign","1",,
+"REQ-0288","288","High","ASI_150003B_VN_E_QSB2040_BatteryPack","Rejected","21.01.2026 07:54","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0289","289","High","PAI_150003B_VN_B_QSB2040_Packaging-Instruction","Rejected","21.01.2026 07:57","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0290","290","High","LSC_150004B_VN_B_QSB2040-2","Signed","21.01.2026 10:50","Anh Nguyen","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""LSC_150004B_VN_B_QSB2040-2""
+Please review and give me your approval!","1",,
+"REQ-0291","291","Medium","WP_412169_B_OP-AWS_QSB2040_VN","Canceled","21.01.2026 11:15","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com","I'd like to update ""WP_412169_B_OP-AWS_QSB2040_VN""
+Please review and give me your approval!","1","link error",
+"REQ-0292","292","High","IM_P_001_VN_F_Organization-Chart-external_Sign","Signed","21.01.2026 13:43","Hieu Luong","Hang.Nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","IM_P_001_VN_F_Organization-Chart-external_Sign","1",,
+"REQ-0293","293","Medium","IM_P_002_VN_K_Organization-Chart_internal_Sign","Rejected","21.01.2026 13:44","Hieu Luong","Hang.Nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","IM_P_002_VN_K_Organization-Chart_internal_Sign","1",,
+"REQ-0294","294","High","OT_26_0006_Q_VN_210126","Signed","21.01.2026 14:04","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0006_Q_VN_210126","1",,
+"REQ-0295","295","High","ASI_412169_VN_D_QSB2040_Preassembly","Rejected","21.01.2026 19:21","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0296","296","High","IM_P_002_VN_K_Organization-Chart_Internal_Sign","Canceled","22.01.2026 10:36","Hieu Luong","Hang.Nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","IM_P_002_VN_K_Organization-Chart_Internal_Sign","1","sdadsa",
+"REQ-0297","297","High","FAIP_150001B-04_VN_A_Mango_QSB2054_Signature","Rejected","22.01.2026 13:02","Kien Luu","viet.dang@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Release FAI for QSB2054","1",,
+"REQ-0298","298","High","Request approval for ASI_412158_VN_D_QSB2054_PreAssembly","Signed","22.01.2026 13:36","Trung Nguyen","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412158_VN_D_QSB2054_PreAssembly
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0299","299","High","LSC_110064S_VN_F_RRC2054-2_Sign","Signed","22.01.2026 16:22","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_110064S_VN_F_RRC2054-2_Sign","1",,
+"REQ-0300","300","High","OT_26_0007_Q_VN_220126","Signed","22.01.2026 16:47","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0007_Q_VN_220126","1",,
+"REQ-0301","301","High","FAIP_150001B-04_VN_A_Mango_QSB2054_Signature2","Signed","23.01.2026 14:45","Kien Luu","Nhuong.Do@rrc-ps.com","Release FAIP for QSB2054","1",,
+"REQ-0302","302","High","Release missing Jig SCD - Spinel - Welding key","Rejected","24.01.2026 09:53","Duc Bui","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release missing Jig SCD - Spinel - Welding key","1",,
+"REQ-0303","303","Medium","Overtime request (24/01/2026)_ Quyen Dao","Signed","24.01.2026 13:28","Quyen Dao","Ingo.Bauerschmidt@rrc-ps.com","Reason: Preparing documents for logistics handover
+to GEODIS and New EX-IM specialist. Putting import schedule.","1",,
+"REQ-0304","304","High","OT_26_0008_Q_VN_260126","Canceled","26.01.2026 17:01","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0008_Q_VN_260126","1","cancel ",
+"REQ-0305","305","High","LA_26_0009_Q_VN_230003_ND_280126","Signed","28.01.2026 10:54","Hieu Luong","Nhuong.Do@rrc-ps.com; Hang.Nguyen@rrc-ps.com","LA_26_0009_Q_VN_230003_ND_280126","1",,
+"REQ-0306","306","High","LSC_150003B_VN_A_QSB2040","Rejected","28.01.2026 13:44","Hoa Vu","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1",,
+"REQ-0307","307","High","LSC_150003B_VN_A_QSB2040_sign","Signed","28.01.2026 15:57","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","LSC_150003B_VN_A_QSB2040_sign","1",,
+"REQ-0308","308","Medium","Quyen test","Canceled","30.01.2026 13:41","Quyen Dao","Quyen.Dao@rrc-ps.com","Test","1","Flow expired",
+"REQ-0309","309","High","SF-26-002_VN_210838_WH_Konishi-glue-amount-wrong-with-ASI","Canceled","30.01.2026 16:32","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-002_VN_210838_WH_Konishi-glue-amount-wrong-with-ASI","1","dsa",
+"REQ-0310","310","High","SF-26-002_VN_210838_WH_Konishi-glue-amount-wrong-with-ASI","Signed","02.02.2026 09:51","Hieu Luong","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-002_VN_210838_WH_Konishi-glue-amount-wrong-with-ASI","1",,
+"REQ-0311","311","High","ASI_412169_VN_D_QSB2040_Preassembly","Canceled","02.02.2026 15:37","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Update the work instructions.",
+"REQ-0312","312","High","ASI_150003B_VN_E_QSB2040_BatteryPack","Canceled","02.02.2026 15:40","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Update the work instructions.",
+"REQ-0313","313","High","PAI_150003B_VN_B_QSB2040_Packaging-Instruction","Canceled","02.02.2026 15:41","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Update the work instructions.",
+"REQ-0314","314","High","LSC_150003B_VN_A_QSB2040_sign","Canceled","02.02.2026 15:57","Hoa Vu","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","Update the work instructions.",
+"REQ-0315","315","High","ASI_412169_VN_D_QSB2040_Preassembly","Canceled","02.02.2026 16:49","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","update WI",
+"REQ-0316","316","High","ASI_412169_VN_D_QSB2040_Preassembly","Canceled","02.02.2026 17:14","Hoa Vu","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com",,"1","update WI",
+"REQ-0317","317","High","PAI_150003B_VN_B_QSB2040_Packaging-Instruction","Rejected","02.02.2026 17:24","Trong Dang","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear team, 
+I'd like to send you the PAI_150003B_VN_B_QSB2040_Packaging-Instruction. 
+Please help check and sign.","1",,
+"REQ-0318","318","High","ASI_150003B_VN_E_QSB2040_BatteryPack","Rejected","02.02.2026 17:26","Trong Dang","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Team, 
+I'd like to send you ASI_150003B_VN_E_QSB2040_BatteryPack,
+please help to check and sign.","1",,
+"REQ-0319","319","High","ASI_412169_VN_D_QSB2040_Preassembly","Signed","02.02.2026 17:29","Trong Dang","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Team, 
+I'd like to send you the ASI_412169_VN_D_QSB2040_Preassembly.
+Please help to check and sign","1",,
+"REQ-0320","320","High","LSC_150003B_VN_B_QSB2040","Canceled","02.02.2026 17:52","Hoa Vu","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear Team
+
+I'd like to share this document LSC_150003B_VN_B_QSB2040
+
+Please review and sign the attached document.","1","ffgf",
+"REQ-0321","321","Medium","Release missing Jig SCD - Spinel","Signed","03.02.2026 09:32","Duc Bui","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release missing Jig SCD - Spinel - Welding key
+Missing information updated already.","1",,
+"REQ-0322","322","High","ASI_150003B_VN_E_QSB2040_BatteryPack_Sign","Signed","03.02.2026 13:16","Trong Dang","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi team,
+I'd like to send yyou ASI_150003B_VN_E_QSB2040_BatteryPack_Sign.
+Please help check and sign.","1",,
+"REQ-0323","323","High","PAI_150003B_VN_B_QSB2040_Packaging-Instruction_Sign","Signed","03.02.2026 13:18","Trong Dang","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Hi team,
+I'd like to send you PAI_150003B_VN_B_QSB2040_Packaging-Instruction_Sign
+Please help check and sign.","1",,
+"REQ-0324","324","Medium","AA_F_003_VN_F_Line_Clearing_Sign","Signed","03.02.2026 14:37","Hoa Vu","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","Dear team
+
+I'd like to share this document AA_F_003_VN_F_Line_Clearing_Sign
+
+Please review and sign the attached document","1",,
+"REQ-0325","325","High","AA_Q_227_VN_C_Lot-shipment_released","Rejected","03.02.2026 16:18","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh Nhuong, 
+Em gửi Anh AA_Q_227 ạ. AA_Q_227_VN_C_Lot-shipment_released
+Anh kiểm tra ạ.
+
+Em cảm ơn.!","1",,
+"REQ-0326","326","High","FAIR_100496-19_VN_A_RRC2020_Sign","Rejected","04.02.2026 12:16","Hieu Luong","duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","FAIR_100496-19_VN_A_RRC2020_Sign","1",,
+"REQ-0327","327","High","FAIR_100498-20_VN_A_RRC2040_Sign","Rejected","04.02.2026 12:20","Hieu Luong","duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","FAIR_100498-20_VN_A_RRC2040_Sign","1",,
+"REQ-0328","328","High","QM_KPI_31012026","Signed","05.02.2026 13:15","Trong Dang","Nhuong.Do@rrc-ps.com","Dear Anh Nhuong,
+Em gửi Anh KPI t1/2026 của bộ phận. Anh kiểm tra ạ. 
+Hôm nay cũng là hạn cuối của gửi KPI rồi ạ.","1",,
+"REQ-0329","329","High","VA_217_VN_B_New Standard and Variant battery Introduction","Rejected","06.02.2026 09:28","Duong Nguyen","Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Revised document following comment from MM team to improve NPI process.","1",,
+"REQ-0330","330","Medium","WP_412177-C_AWS3_RRC3570-4_VN","Canceled","06.02.2026 09:46","Anh Nguyen","Hung.Dang@rrc-ps.com; Adrian.Ferdinand@rrc-ps.com; Sebastian.Coelsch@rrc-ps.com","I'd like to update ""WP_412177-C_AWS3_RRC3570-4_VN""
+Please refer and give me your approval!","1","Flow expired",
+"REQ-0331","331","High","Release Jig Petalite - SCD_ 412241-01 - Corepack Screwing Jig","Canceled","06.02.2026 11:03","Duc Bui","viet.dang@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig Petalite - SCD_ 412241-01 - Corepack Screwing Jig","1","Flow expired",
+"REQ-0332","332","High","Release Jig Petalite - SCD_ 213005-01 - Corepack Cover","Rejected","06.02.2026 11:04","Duc Bui","viet.dang@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig Petalite - SCD_ 213005-01 - Corepack Cover","1",,
+"REQ-0333","333","High","Release Jig Petalite - SCD_ 212882-02 - Screw Guide Plate","Rejected","06.02.2026 11:05","Duc Bui","viet.dang@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig Petalite - SCD_ 212882-02 - Screw Guide Plate","1",,
+"REQ-0334","334","High","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","Canceled","06.02.2026 11:31","Hieu Luong","binh.le@rrc-ps.com; Hung.Dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","1","wrong ",
+"REQ-0335","335","High","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","Canceled","06.02.2026 13:04","Hieu Luong","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","1","fgh",
+"REQ-0336","336","High","OT_26_0011_Q_VN_070226","Signed","06.02.2026 14:37","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0011_Q_VN_070226","1",,
+"REQ-0337","337","High","FMEA_110338_VN_A_RRC3570-4_Battery-Pack","Canceled","09.02.2026 08:44","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""FMEA_110338_VN_A_RRC3570-4_Battery-Pack""
+Please check and give me your approval!","1","recheck",
+"REQ-0338","338","High","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","Canceled","09.02.2026 08:51","Hieu Luong","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","SF-26-004_VN_150004B-04_Production_Can-not-solder-connector&PCBA","1","Flow expired",
+"REQ-0339","339","High","LA_26_0012_Q_VN_230003_ND_230226","Signed","09.02.2026 11:32","Hieu Luong","Nhuong.Do@rrc-ps.com; Hang.Nguyen@rrc-ps.com","LA_26_0012_Q_VN_230003_ND_230226","1",,
+"REQ-0340","340","High","OT_26_0012_Q_VN_090226","Signed","09.02.2026 12:52","Hieu Luong","Nhuong.Do@rrc-ps.com","OT_26_0012_Q_VN_090226","1",,
+"REQ-0341","341","High","FAIR_150001B-04_VN_A_Mango_QSB2054_Signature","Signed","09.02.2026 13:15","Kien Luu","binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release FAIR for QSB2054 mass-Production","1",,
+"REQ-0342","342","High","PCP_110338_VN_A_RRC3570-4_Battery-Pack","Canceled","09.02.2026 16:40","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""PCP_110338_VN_A_RRC3570-4_Battery-Pack""
+Please check and give me your  approval!","1","change approval line",
+"REQ-0343","343","High","FMEA_110338_VN_A_RRC3570-4_Battery-Pack","Canceled","09.02.2026 16:43","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Nhuong.Do@rrc-ps.com","I'd like to update ""FMEA_110338_VN_A_RRC3570-4_Battery-Pack""
+Please check and give me your approval!","1","change approval line",
+"REQ-0344","344","Medium","Overtime request (07/01/2026)_ Quyen Dao","Signed","10.02.2026 11:06","Quyen Dao","Ingo.Bauerschmidt@rrc-ps.com","Supporting Import-Export shipment, logisitics","1",,
+"REQ-0345","345","High","SF-26-005_VN_212584_BAK_Cells_w_CCC_logo","Rejected","10.02.2026 14:12","Binh Le","trong.dang@rrc-ps.com; Thuy.Vu@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team, 
+The attached files wil be shared via email later due to the reason that when we merged files, they do not allow for sign on anymore.
+Therefore, I attached only the signature page. 
+Thank you for understanding.","1",,
+"REQ-0346","346","High","SF-26-005_VN_212584_BAK_Cells_w_CCC_logo","Canceled","11.02.2026 09:55","Binh Le","Trang.Dang@rrc-ps.com; Thuy.Vu@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1","wrong checker",
+"REQ-0347","347","High","SF-26-005_VN_212584_BAK_Cells_w_CCC_logo","Canceled","11.02.2026 15:44","Binh Le","trong.dang@rrc-ps.com; Thuy.Vu@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1","gg",
+"REQ-0348","348","Medium","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","11.02.2026 16:38","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+I'd like to update the ASI: ""ASI_412177_VN_C_RRC3570-4_Assembly-Instruction"".
+Please kindly review and give me your approval!","1","re-check",
+"REQ-0349","349","High","SF-26-005_VN_212584_BAK_Cells_w_CCC_logo","Signed","12.02.2026 10:37","Binh Le","trong.dang@rrc-ps.com; Thuy.Vu@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0350","350","Medium","FAIR_150004B-04_VN_A_Coriander_QSB2040-2_Signature","Rejected","12.02.2026 12:45","Kien Luu","viet.dang@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","FAIR for QSB2040-2","1",,
+"REQ-0351","351","Medium","FAIR_150004B-04_VN_A_Coriander_QSB2040-2_Signature2","Canceled","12.02.2026 13:24","Kien Luu","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","FAIR for QSB2040-2","1","The application have a error",
+"REQ-0352","352","High","SF-26-003_VN_212300-02_C_RRC2054-2_Taiyi_Device-label_Old-version","Rejected","12.02.2026 14:49","Thuy Vu","Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team,
+
+I'd like to send SF-26-003_VN_212300-02_C_RRC2054-2_Taiyi_Device-label_Old-version
+
+Please view and help me to sign. Thank you.","1",,
+"REQ-0353","353","High","PMR_B_2BC_MS_Design_Input","Signed","24.02.2026 08:53","Binh Le","Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0354","354","High","PMR_C_2BC_MS_Functional_model","Signed","24.02.2026 08:55","Binh Le","Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0355","355","High","PMP_A_Petalite_Charger_MS_Kick-off","Signed","24.02.2026 08:56","Binh Le","Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0356","356","High","PMR_B_Petalite_Charger_MS_Design_Input","Signed","24.02.2026 08:57","Binh Le","Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0357","357","High","FMEA_110338_VN_A_RRC3570-4_Battery-Pack","Canceled","25.02.2026 09:35","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to creat new ""FMEA_110338_VN_A_RRC3570-4_Battery-Pack""
+Please kindly review and give me your approval!","1","change approval line",
+"REQ-0358","358","High","PCP_110338_VN_A_RRC3570-4_Battery-Pack","Canceled","25.02.2026 09:41","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to create new ""PCP_110338_VN_A_RRC3570-4_Battery-Pack""
+Please kindly review and give me your approval!","1","change approval line",
+"REQ-0359","359","High","CAR_InternalAudits_Management_2025-04-10-HN","Signed","25.02.2026 11:12","Trong Dang","Hang.Nguyen@rrc-ps.com; Ha.Le@rrc-ps.com","Dear Chị Hằng, C Hà,
+Em gửi 2 Chị báo cáo CAR của Internal audit 2025. Chị kiểm tra và ký giúp Em để close Issue ạ.","1",,
+"REQ-0360","360","High","CAR_InternalAudits_Management_2025-04-10-ND","Rejected","25.02.2026 11:14","Trong Dang","Hang.Nguyen@rrc-ps.com; Ha.Le@rrc-ps.com","Dear Chị Hằng, Chị Hà.
+Em gửi chị báo cáo CAR của bộ phận Q. Chị ký giúp Em để close issue ạ.","1",,
+"REQ-0361","361","High","CAR_InternalAudits_MPS_2025-04-04-HN","Signed","25.02.2026 11:15","Trong Dang","Ha.Le@rrc-ps.com","Dear Chị Hà,
+Em gửi chị báo cáo CAR của WH. Chị ký giúp Em để close issue ạ.","1",,
+"REQ-0362","362","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","25.02.2026 12:50","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update '""ASI_412177_VN_C_RRC3570-4_Assembly-Instruction""
+Please kindly review and give me your approval!","1","change approval line",
+"REQ-0363","363","High","SCD_212112_A_Therm.Trans.Ribbon Armor AXR7+110mm_300m","Rejected","25.02.2026 13:46","Viet Dang","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Create SCD for Indirect part for RRC Vietnam","1",,
+"REQ-0364","364","High","SCD_212342_A_Lead Free Solder  SI100C-NS-31-3.0 1.0mm","Rejected","25.02.2026 13:48","Viet Dang","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Create SCD for Indirect part","1",,
+"REQ-0365","365","High","SCD_212875_A_Therm.Trans.Ribbon Armor AXR7+75mm_300m","In progress","25.02.2026 13:49","Viet Dang","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Create SCD of Indirect part in RRC Vietnam","1",,
+"REQ-0366","366","High","SCD_212884_A_OPP_Adhesive_Tape_47mmx90m","In progress","25.02.2026 13:51","Viet Dang","trong.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Create SCD for Indirrect part in RRC Vietnam","1",,
+"REQ-0367","367","High","LSC_110059S_VN_F_RRC2040-2-OL_Sign","Signed","25.02.2026 16:01","Hieu Luong","Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","LSC_110059S_VN_F_RRC2040-2-OL_Sign","1",,
+"REQ-0368","368","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","26.02.2026 16:55","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412177_VN_C_RRC3570-4_Assembly-Instruction""
+Please review and give me your approval!","1","update",
+"REQ-0369","369","High","PCP_110338_VN_A_RRC3570-4_Battery-Pack","Signed","26.02.2026 17:04","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""PCP_110338_VN_A_RRC3570-4_Battery-Pack""
+Please refer and give me your approval!","1",,
+"REQ-0370","370","High","FMEA_110338_VN_A_RRC3570-4_Battery-Pack","Signed","26.02.2026 17:12","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""FMEA_110338_VN_A_RRC3570-4_Battery-Pack""
+Please review and give me your approval!","1",,
+"REQ-0371","371","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","27.02.2026 14:24","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412177_VN_C_RRC3570-4_Assembly-Instruction""
+Please refer and give me your approval!","1","update",
+"REQ-0372","372","High","SF-26-006_VN","Signed","27.02.2026 15:54","Chien Tran","Ingo.Bauerschmidt@rrc-ps.com","RRC2040-2-OL_Use-paper-ASI-for-A11&A12-Station","1",,
+"REQ-0373","373","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","27.02.2026 16:25","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412177_VN_C_RRC3570-4_Assembly-Instruction""
+Please review andgive me your approval!","1","Link died",
+"REQ-0374","374","High","LSC_150002B-04_VN_C_QSB2054-2","Canceled","28.02.2026 10:13","Hoa Vu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I would like to share the document LSC_150002B-04_VN_C_QSB2054-2 for your review and approval.
+
+Please kindly check and sign the above document at your earliest convenience.","1","update document",
+"REQ-0375","375","High","ASI_412159_VN_D_QSB2054-2_PreAssembly","Canceled","28.02.2026 10:21","Hoa Vu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to update ""ASI_412159_VN_D_QSB2054-2_PreAssembly""
+Please kindly review and give me your approval!","1","update document",
+"REQ-0376","376","High","SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-C","Canceled","28.02.2026 10:52","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I'd like to submit ""SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-C""
+Please kindly review and give me your approval!","1","change the content",
+"REQ-0377","377","High","WP_412159_D_OP-AWS_QSB2054-2_VN","Signed","28.02.2026 12:29","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com","I'd like to update ""WP_412159_D_OP-AWS_QSB2054-2_VN""
+Please kindly review and give me your approval!","1",,
+"REQ-0378","378","High","SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-D","Canceled","28.02.2026 13:02","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-D","1","change the content",
+"REQ-0379","379","High","SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-D","Signed","28.02.2026 14:10","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SF-26-007_VN_412159_RRCVN_QBS2054-2_WP-Rev-D","1",,
+"REQ-0380","380","High","FAIR_150003B-04_VN_A_Ginger_QSB2040_Signature","Rejected","28.02.2026 15:19","Kien Luu","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release FAIR for QSB2040","1",,
+"REQ-0381","381","High","LSC_100496_VN_J_Approval-Page_sign","Signed","02.03.2026 08:31","Chien Tran","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Cập nhật nhãn dán thiết bị của sản phẩm RRC2020B với phiên bản mới “211964-
+06”
+[Update Device Label RRC2020B with new vesion “211964-06”]","1",,
+"REQ-0382","382","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","02.03.2026 10:22","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","1","link error",
+"REQ-0383","383","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","02.03.2026 12:45","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","1","link died",
+"REQ-0384","384","High","FAIR_150004B-04_VN_A_Coriander_QSB2040-2_Signature-update1","Canceled","02.03.2026 12:52","Kien Luu","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release FAIR for QSB2040-2","1","Application have a error",
+"REQ-0385","385","High","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","02.03.2026 12:58","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","1","link died",
+"REQ-0386","386","Medium","VA_031_VN_D Supplier Selection","Canceled","03.03.2026 15:31","Ha Le","trong.dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Updated the Supplier selection procedure with clear documentation matrix required and adding the exception for NPI","1","wrong document uploaded",
+"REQ-0387","387","Medium","VA_031_VN_D Supplier selection","Signed","04.03.2026 09:00","Ha Le","trong.dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Updated the Supplier selection procedure with clear documentation matrix required and adding the exception for NPI","1",,
+"REQ-0388","388","High","LSC_110338_VN_B_RRC3570-4","Canceled","04.03.2026 12:36","Anh Nguyen","trong.dang@rrc-ps.com; binh.le@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","LSC_110338_VN_B_RRC3570-4","1","wrong innformation reject, ",
+"REQ-0389","389","High","SF-26-008_VN_412083_RRCVN_RRC2040B_WP-Rev-AB","In progress","04.03.2026 12:45","Anh Nguyen","trong.dang@rrc-ps.com; nils.lelle@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SF-26-008_VN_412083_RRCVN_RRC2040B_WP-Rev-AB","1",,
+"REQ-0390","390","High","PCPA_110338_VN_B_RRC3570-4_released","Canceled","04.03.2026 13:47","Trong Dang","anh.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team, 
+I'd like to send you PCPA_110338_VN_B_RRC3570-4.
+Please help me to review and sign.
+
+Best regard!
+Trong","1","Hello, I found that I did not sign in the document.
+ 
+Thank you!",
+"REQ-0391","391","High","SF-26-003_VN_212300-02_C_RRC2054-2_Taiyi_Device-label_Old-version","Signed","05.03.2026 08:39","Thuy Vu","Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team,
+
+I'd like to send SF-26-003_VN_212300-02_C_RRC2054-2_Taiyi_Device-label_Old-version
+
+Please view and help me to sign. Thank you.
+","1",,
+"REQ-0392","392","High","PCPA_110338_VN_B_RRC3570-4_released","Canceled","05.03.2026 11:01","Trong Dang","anh.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team, 
+I'd like to send you PCPA_110338_VN_B_RRC3570-4.
+Please help me to review and sign.
+
+Best regard!
+Trong","1","I'd like to cancel this document and send back later. 
+Thanks!",
+"REQ-0393","393","High","FAIR_150004B-04_VN_A_Coriander_QSB2040-2_Signature-Update","Signed","06.03.2026 15:04","Kien Luu","Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","This FAIR was signed up to the R&D Manager in request #384 but got stuck due to an app error. The creator canceled it and made this new request, including only the people who haven't signed yet","1",,
+"REQ-0394","394","High","FAIR_150003B-04_VN_A_Ginger_QSB2040_Signature","In progress","06.03.2026 15:13","Kien Luu","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release FAIR for QSB2040","1",,
+"REQ-0395","395","High","SCD_212715-01_VN_A_Ay_Pallet-1200x800x144_Release","Canceled","06.03.2026 16:20","Viet Dang","viet.dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SCD for wooden pallet","1","Cancel for updated",
+"REQ-0396","396","High","SCD_212715-01_VN_A_Ay_Pallet-1200x800x144_Release","Canceled","06.03.2026 16:27","Viet Dang","duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SCD for wooden pallet","1","Document need to be updated",
+"REQ-0397","397","High","VA_035_VN_B_Supplier-Audit_released","Signed","07.03.2026 10:22","Trong Dang","Ha.Le@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team,
+I'd like to send you the VA_035_VN document. Please help to review and sign this document.
+
+Best regard!
+Trong.!","1",,
+"REQ-0398","398","High","VA_051_VN_B_Internal-External-Audits_released","In progress","07.03.2026 14:02","Trong Dang","Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Trang.Vu@rrc-ps.com; Ha.Le@rrc-ps.com; Hang.Nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Dear Team, 
+I'd like to send you the VA_051_VN document, I have updated this document.
+Please help to review and sign this document.
+
+Best regard!
+Trong.!","1",,
+"REQ-0399","399","High","SCD_212715-01_VN_A_Ay_Pallet-1200x800x144","Canceled","09.03.2026 13:31","Viet Dang","duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SCD for wooden pallet","1","Doc Sign flow error",
+"REQ-0400","400","Medium","Test","Canceled","09.03.2026 13:39","Lam Vo","duong.nguyen@rrc-ps.com",,"1","Canceled for testing",
+"REQ-0401","401","Medium","SCD_212715-01_VN_A_Ay_Pallet-1200x800x144","Canceled","09.03.2026 13:43","Viet Dang","duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SCD for wooden palet","1","Document need updated",
+"REQ-0402","402","Medium","Test","Signed","09.03.2026 13:59","Lam Vo","duong.nguyen@rrc-ps.com",,"1",,
+"REQ-0403","403","Medium","SCD_212715-01_VN_A_Ay_Pallet-1200x800x144","Signed","09.03.2026 14:42","Viet Dang","duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","SCD for wooden pallet","1",,
+"REQ-0404","404","Medium","IM_B_200_VN_Standard_Delivery_Terms","Rejected","12.03.2026 11:02","Ha Le","trong.dang@rrc-ps.com; Trang.Vu@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","To establish a standardized Incoterms for all purchasing shipments","1",,
+"REQ-0405","405","High","CL_Q_203_VN_A_Supplier-Audit-Checklist_released","Rejected","12.03.2026 15:36","Trong Dang","Ha.Le@rrc-ps.com","Dear Chị Hà,
+Chị ký bù giúp Em tài liệu này với ạ. Trước Chị có cmt về tên tài liệu, E đã sửa lại cho khớp giữa Eng và VN rồi ạ.
+
+Em cảm ơn.!","1",,
+"REQ-0406","406","Medium","AA_Q_210_VN_D_Pull-test_Modified-as-ND-comment","Canceled","13.03.2026 09:32","Hieu Luong","Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","AA_Q_210_VN_D_Pull-test_Modified-as-ND-comment","1","cancel due to new update    ",
+"REQ-0407","407","High","Release Jig SCD_Spinel_212900-01_B_Double side tab","Rejected","13.03.2026 12:19","Duc Bui","viet.dang@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Audit issues
+Add FAI dimension","1",,
+"REQ-0408","408","High","LSC_110186S_VN_F_Approval-Page","In progress","13.03.2026 19:33","Hoa Vu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","I would like to share the document LSC_110186S_VN_F_RRC2054-2-LM for your review and approval.
+
+Please kindly check and sign the above document at your earliest convenience.","1",,
+"REQ-0409","409","High","Release JIG SCD - 212278-02_B_RRC2054_Corepack-test-jig","Rejected","14.03.2026 15:18","Duc Bui","viet.dang@rrc-ps.com; trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release JIG SCD - 212278-02_B_RRC2054_Corepack-test-jig
+Shape change, optic fiber installation method change","1",,
+"REQ-0410","410","Medium","FO_Q_021_VN_C_Change-Request_Signature","Rejected","18.03.2026 12:47","Kien Luu","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release new Form for change request (Update information for Signature section)","1",,
+"REQ-0411","411","High","Release Jig SCD - 212498-01_B_RRC2054_Cell_Jig_Vietnam_Upper_Part_Cover","Canceled","18.03.2026 13:38","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD
+212498-01_B_RRC2054_Cell_Jig_Vietnam_Upper_Part_Cover
+Change material from FR4 ESD to POM ESD","1","Revise SCD",
+"REQ-0412","412","High","FO_Q_021_VN_C_Change-Request_Signature","In progress","18.03.2026 14:18","Kien Luu","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release Form for CR (Update Signature section)","1",,
+"REQ-0413","413","High","SF-26-011_VN_RRC2054-OL_RRCVN_SIR_Device-label-skip-color-checking","Rejected","19.03.2026 09:45","Hieu Luong","Ingo.Bauerschmidt@rrc-ps.com","SF-26-011_VN_RRC2054-OL_RRCVN_SIR_Device-label-skip-color-checking","1",,
+"REQ-0414","414","High","AA_F_219_VN_D_Fixture-Released","Rejected","19.03.2026 12:05","Duong Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0415","415","High","SF-26-011_VN_RRC2054-OL_RRCVN_SIR_Device-label-skip-color-checking_Modified","Signed","19.03.2026 13:10","Hieu Luong","Ingo.Bauerschmidt@rrc-ps.com","Modified as GD's comment  ","1",,
+"REQ-0416","416","High","Request approval for ASI_412177_VN_C_RRC3570-4_Assembly-Instruction","Canceled","19.03.2026 14:42","Trung Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_412177_VN_C_RRC3570-4_Assembly-Instruction
+
+Please review and sign for approval. 
+
+Thank you","1","revise approve page",
+"REQ-0417","417","High","ASI_110338_VN_A_RRC3570-4_Signature","Rejected","19.03.2026 15:00","Kien Luu","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release ASI preassembly for Petalite","1",,
+"REQ-0418","418","Medium","IM_B_200_VN Standard delivery terms","Rejected","19.03.2026 16:05","Ha Le","trong.dang@rrc-ps.com; Trang.Vu@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Instruction for the standard delivery terms of purchasing items","1",,
+"REQ-0419","419","High","Request approval for ASI_110338_VN_A_RRC3570-4","In progress","19.03.2026 16:18","Trung Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Hi all,
+
+I'd like to update to ASI_110338_VN_A_RRC3570-4
+
+Please review and sign for approval. 
+
+Thank you","1",,
+"REQ-0420","420","High","AA_F_219_VN_D_Fixture-Released","Rejected","20.03.2026 09:31","Duong Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0421","421","High","Release Jig SCD - 212682-01_B_RRC2054 Hard pack test jig","Signed","21.03.2026 16:25","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD - 212682-01_B_RRC2054 Hard pack test jig
+Remove unnecessary shape for making in house","1",,
+"REQ-0422","422","High","Release Jig SCD - 212498-01_B_RRC054 Cell Jig Upper Part Cover","Signed","21.03.2026 16:27","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD - 212498-01_B_RRC054 Cell Jig Upper Part Cover
+Change material from FR4 to POM ESD","1",,
+"REQ-0423","423","High","Release Jig SCD - RRC2054 Corepack test jig","Rejected","21.03.2026 16:30","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD - RRC2054 Corepack test jig
+Shape change, optic fiber installaton method change","1",,
+"REQ-0424","424","High","Release Jig SCD - Spinel-01_B JIG Double side tab","Signed","21.03.2026 16:32","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD - Spinel-01_B JIG Double side tab
+Add FAI dimension","1",,
+"REQ-0425","425","High","Release Jig SCD -213060-01_B RRC2054 jig hardpack labeling ","Signed","21.03.2026 16:34","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD -213060-01_B RRC2054 jig hardpack labeling 
+First release","1",,
+"REQ-0429","429","High","SF-26-008_VN_412083_RRCVN_RRC2040B_WP-Rev-AB","Signed","23.03.2026 09:46","Anh Nguyen","Ingo.Bauerschmidt@rrc-ps.com","SF-26-008_VN_412083_RRCVN_RRC2040B_WP-Rev-AB","1",,
+"REQ-0431","431","High","Release production equipment SCD - 213061-01_A-Production feeding trolley","Signed","23.03.2026 11:19","Duc Bui","hang.vuong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release production equipment SCD
+213061-01_A-Production feeding trolley","1",,
+"REQ-0432","432","High","AS_InternalAudits_2026_A_2026-03-12_released","Signed","23.03.2026 14:23","Trong Dang","Ingo.Bauerschmidt@rrc-ps.com","Dear Ingo, 
+I'm on behalf of QM, 
+I'd like to share you the audit schedule of internal audit. Please help me to review.","1",,
+"REQ-0433","433","High","FO_E_029_VN_C_Assembly-Instruction_released","Signed","23.03.2026 14:56","Trong Dang","Ingo.Bauerschmidt@rrc-ps.com","Dear Ingo,
+I'd like to send you FO_E_029_VN_C_Assembly-Instruction_released. Please help me to review and sign.
+
+Best regard.!
+Trong.!","1",,
+"REQ-0434","434","Medium","AA_Q_210_VN_D_Pull-test_Modified-based-on-ND-comment","Canceled","23.03.2026 17:27","Hieu Luong","Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Cập nhật nội dung, kết hợp từ AA_F_040_VN:
+- Thêm mục 4.4. Đánh giá chất lượng mối hàn pin
+- Chỉnh sửa yêu cầu lực kéo đo được của Petalite tại mục 4.4.3.1 từ :” Tổng giá trị lực kéo tại các điểm hàn ≥ 75N VÀ:
+Ít nhất 3 trong 4 điểm hàn phải kết dính.” thành “Tổng giá trị lực kéo tại các điểm hàn ≥ 100N. Trong đó, giá trị lực kéo thấp nhất của 1 bên cực là 40N. Cực còn lại phải bù giá trị còn thiếu trong tổng 100N”
+[Update content, merge from AA_F_040_VN:
+- Added item 4.4. Verify the quality of
+spot-welding points
+- Update requirement of measured peel-force of Petalite at item 4.4.3.1 from:”
+Sum of both weld spots at each axis ≥ 75N AND: At least three of four weld spots attached” to “Sum of weld spots ≥ 100N. In total of 100N, the lowest oull force for one pole is 40N. The remaining pole must compensate in order to achieve the total of 100N”]","1","cancel",
+"REQ-0435","435","High","Release Jig SCD - 212814-02_B_Upper Welding Jig Petalite","Signed","24.03.2026 09:57","Duc Bui","viet.dang@rrc-ps.com; Hieu.Luong@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com","Release Jig SCD - 212814-02_B_Upper Welding Jig Petalite
+Shape change: enlarge solder lug slit, cut a hole for scanning UDI label","1",,
+"REQ-0436","436","High","AA_F_219_VN_D_Fixture-Released","In progress","24.03.2026 13:04","Duong Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com",,"1",,
+"REQ-0437","437","High","CAR_CustomerAudit_Management_2026-01-27-28_127.1,127.2,127.3","Signed","24.03.2026 13:24","Trong Dang","Ingo.Bauerschmidt@rrc-ps.com","Dear Ingo, 
+I'd like to send CAR_CustomerAudit_Management_2026-01-27-28_127.1, 127.2, 127.3, which were prepared during the meeting on 13 March 2026.
+Please help review and sign.
+
+Best regard!
+Trong.!","1",,
+"REQ-0438","438","High","CAR_InternalAudits_Management_2025-04-10-HL","In progress","24.03.2026 15:58","Trong Dang","Ha.Le@rrc-ps.com","Dear Chị Hà,
+Em gửi chị CAR của Internal audit 2025. C ký giúp Em phần số 1 và số 7 ạ. 
+Các NC trong CAR đều sẽ chuyển sang NC của Customer 2026 ạ. ","1",,
+"REQ-0439","439","High","CAR_InternalAudits_MPS,PP,WH_2025-04-04_2","Rejected","25.03.2026 09:14","Trong Dang","duong.nguyen@rrc-ps.com; Ha.Le@rrc-ps.com","Dear Anh Dương, Chị Hà
+Em gửi A/C CAR Internal của WH. A/c ký giúp Em ạ. Các Item đã done trong 2025 rồi, còn các item khác thì E kéo ra CAR khác ạ.
+
+Em cảm ơn.","1",,
+"REQ-0440","440","High","CAR_InternalAudits_MPS,PP,WH_2025-04-04_3","In progress","25.03.2026 09:16","Trong Dang","duong.nguyen@rrc-ps.com; Ha.Le@rrc-ps.com","Dear Anh Dương, Chị Hà.
+Em gửi CAR_InternalAudits_MPS,PP,WH_2025-04-04_3. Cái còn lại của WH ạ. A/c ký giúp Em ạ.
+
+Em cảm ơn.!","1",,
+"REQ-0441","441","Medium","FO_Q_021_VN_C_Change-Request_Signature-2","In progress","25.03.2026 12:17","Kien Luu","Hieu.Luong@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Release new form for CR (Update information signature section)","1",,
+"REQ-0442","442","Medium","RRC_F_0506_IMI_RRC3570-4_212814-02_Upper_Welding_Jig_Sign","Rejected","26.03.2026 13:24","Hieu Luong","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Cập nhật tài liệu sau khi cập nhật bản vẽ của jig lên -02_B 
+[Update the document after
+Release SCD of the jig version to -02_B]","1",,
+"REQ-0443","443","Medium","RRC_F_0506_IMI_RRC3570-4_212814-02_Upper_Welding_Jig_signed","In progress","26.03.2026 13:54","Hieu Luong","duong.nguyen@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Cập nhật tài liệu sau khi cập nhật bản vẽ của jig lên -02_B 
+[Update the document after
+Release SCD of the jig version to -02_B]","1",,
+"REQ-0445","445","Medium","AA_F_214_VN_C_Operators_Welder_Handling_Sign","In progress","27.03.2026 08:47","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com","AA_F_214_VN_C_Operators_Welder_Handling_Sign","1",,
+"REQ-0446","446","Medium","AA_Q_210_VN_D_Pull-test_Modified-based-on-ND-comment","In progress","27.03.2026 15:27","Hieu Luong","Ingo.Bauerschmidt@rrc-ps.com","Update content, merge from AA_F_040_VN:
+- Added item 4.4. Verify the quality of
+spot-welding points
+- Update requirement of measured peel-force of Petalite at item 4.4.3.1 from:”
+Sum of both weld spots at each axis ≥ 75N AND: At least three of four weld spots attached” to “Sum of weld spots ≥ 100N. In total of 100N, the lowest pull force for one axis is 40N. The remaining axis must compensate in order to achieve the total of 100N”","1",,
+"REQ-0447","447","High","CAR_InternalAudits_MPS,PP,WH_2025-04-04_2","Rejected","28.03.2026 14:33","Trong Dang","duong.nguyen@rrc-ps.com; Ha.Le@rrc-ps.com","Dear Anh Dương, Chị Hà,
+E gửi CAR_InternalAudits_MPS,PP,WH_2025-04-04_2, các NC đều đã cải tiến, các hạng mục pending E đã move nó ra ngoài CAR số 3, Sếp Ingo đã update ạ.
+A/c ký giúp Em ạ.","1",,
+"REQ-0448","448","High","SF-26-012_VN_412081-02_RRCVN_RRC2020_WP-Rev-W","In progress","30.03.2026 08:23","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Use the updated Welding Parameter to reduce scrap rate. This Welding Parameter has been released
+but not yet updated in ASI, it will be updated in the next WO.","1",,
+"REQ-0449","449","High","ASI_412177_VN_D_RRC3570-4_Assembly-Instruction_Sign","Canceled","30.03.2026 10:47","Anh Nguyen","trong.dang@rrc-ps.com; Hung.Dang@rrc-ps.com; duong.nguyen@rrc-ps.com; Ingo.Bauerschmidt@rrc-ps.com","Update the details of work instruction, allocation of the materials, testing sequence, gluing paramter, soldering parameter","1","Re-check",
+"REQ-0450","450","High","CAR_InternalAudits_MPS,PP,WH_2025-04-04_2","Signed","30.03.2026 13:26","Trong Dang","Ha.Le@rrc-ps.com","Dear Chị Hà, 
+E gửi lại file CAR ký ạ. E đã cập nhật theo cmt của C rồi ạ.","1",,
+"REQ-0451","451","High","FO_E_065_VN_B_Packaging-Instruction_released","In progress","30.03.2026 14:32","Trong Dang","Ingo.Bauerschmidt@rrc-ps.com","Dear Ingo,
+I'd like to send you the new version of FO_E_065_VN_B_Packaging-Instruction. Please help me to review and sign. 
+
+Best regard!
+Trong.!","1",,
