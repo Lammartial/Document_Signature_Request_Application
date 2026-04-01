@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+.env
+.env.*
+/media/
+/staticfiles/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+Prototype/_app_export/
+Prototype/_flow_export/

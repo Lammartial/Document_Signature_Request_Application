@@ -1,0 +1,18 @@
+body {
+    background: #f4f7fb;
+}
+
+.navbar-brand {
+    letter-spacing: 0.04em;
+}
+
+.card {
+    border: 0;
+    border-radius: 1rem;
+}
+
+textarea,
+input,
+select {
+    width: 100%;
+}

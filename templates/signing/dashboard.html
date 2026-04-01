@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard | DocSign{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h1 class="h3 mb-1">Document Signature Requests</h1>
+        <p class="text-muted mb-0">Sequential approval workflow implemented in Python/Django.</p>
+    </div>
+    <a class="btn btn-primary" href="{% url 'signing:request-create' %}">New Request</a>
+</div>
+
+<div class="row g-4">
+    <div class="col-lg-8">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h2 class="h5 mb-3">My Requests</h2>
+                <div class="table-responsive">
+                    <table class="table align-middle">
+                        <thead>
+                            <tr>
+                                <th>Reference</th>
+                                <th>Title</th>
+                                <th>Status</th>
+                                <th>Updated</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for item in my_requests %}
+                                <tr>
+                                    <td><a href="{% url 'signing:request-detail' item.pk %}">{{ item.reference_code }}</a></td>
+                                    <td>{{ item.title }}</td>
+                                    <td>{{ item.get_status_display }}</td>
+                                    <td>{{ item.updated_at }}</td>
+                                </tr>
+                            {% empty %}
+                                <tr>
+                                    <td colspan="4" class="text-muted">No requests yet.</td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h2 class="h5 mb-3">My Pending Actions</h2>
+                <div class="list-group list-group-flush">
+                    {% for step in pending_steps %}
+                        <a class="list-group-item list-group-item-action px-0" href="{% url 'signing:request-detail' step.request.pk %}">
+                            <div class="fw-semibold">{{ step.request.title }}</div>
+                            <div class="small text-muted">{{ step.request.reference_code }} · Step {{ step.order }}</div>
+                        </a>
+                    {% empty %}
+                        <div class="text-muted">No active approvals assigned to you.</div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

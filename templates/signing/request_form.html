@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}New Request | DocSign{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-xl-8">
+        <div class="card shadow-sm">
+            <div class="card-body p-4">
+                <h1 class="h4 mb-3">Create Signature Request</h1>
+                <form method="post" enctype="multipart/form-data" class="row g-3">
+                    {% csrf_token %}
+                    <div class="col-md-8">
+                        <label class="form-label" for="{{ form.title.id_for_label }}">Request title</label>
+                        {{ form.title }}
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label" for="{{ form.priority.id_for_label }}">Priority</label>
+                        {{ form.priority }}
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label" for="{{ form.details.id_for_label }}">Details</label>
+                        {{ form.details }}
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label" for="{{ document_form.document.id_for_label }}">Document</label>
+                        {{ document_form.document }}
+                    </div>
+                    <div class="col-12">
+                        <label class="form-label" for="{{ form.approver_emails.id_for_label }}">Approvers</label>
+                        {{ form.approver_emails }}
+                        <div class="form-text">{{ form.approver_emails.help_text }}</div>
+                    </div>
+                    <div class="col-12 d-flex gap-2">
+                        <button class="btn btn-primary" type="submit">Create Request</button>
+                        <a class="btn btn-outline-secondary" href="{% url 'signing:dashboard' %}">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

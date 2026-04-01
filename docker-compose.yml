@@ -1,0 +1,37 @@
+services:
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    environment:
+      DJANGO_DEBUG: "true"
+      DJANGO_SECRET_KEY: "local-dev-secret"
+      DJANGO_DB_ENGINE: "django.db.backends.sqlite3"
+      DJANGO_DB_NAME: "/app/db.sqlite3"
+      CELERY_BROKER_URL: "redis://redis:6379/0"
+      CELERY_RESULT_BACKEND: "redis://redis:6379/0"
+    volumes:
+      - .:/app
+    depends_on:
+      - redis
+
+  worker:
+    build: .
+    command: celery -A config worker -l info
+    environment:
+      DJANGO_DEBUG: "true"
+      DJANGO_SECRET_KEY: "local-dev-secret"
+      DJANGO_DB_ENGINE: "django.db.backends.sqlite3"
+      DJANGO_DB_NAME: "/app/db.sqlite3"
+      CELERY_BROKER_URL: "redis://redis:6379/0"
+      CELERY_RESULT_BACKEND: "redis://redis:6379/0"
+    volumes:
+      - .:/app
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
